@@ -1,0 +1,9 @@
+# News on the home page. Strings will be Markdown-ified.
+main:
+  - "(July 2021) Berthy restarted working on the website!"
+  - "(March 2021) Berthy started working on the website!"
+
+all:
+  - "(July 2021) Berthy restarted working on the website!"
+  - "(March 2021) Berthy started working on the website!"
+  - "(January 2021) The year started!"

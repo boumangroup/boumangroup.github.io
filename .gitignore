@@ -3,3 +3,10 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# Node stuff
+node_modules/
+package-lock.json
+
+# MacOS
+.DS_Store

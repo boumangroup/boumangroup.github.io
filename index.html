@@ -1,0 +1,19 @@
+---
+layout: single
+---
+
+{% include base_path %}
+
+<h2>News</h2>
+<div id="news">
+  {% for item in site.data.news.main %}
+  <p><strong><font class="new">NEW! </font></strong>{{ item | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+  {% endfor %}
+  <a href="#" onclick="hideBlock('news'); showBlock('allnews'); return false;" class="btn btn--inverse">More</a>
+</div>
+<div id="allnews" style="display: none;">
+  {% for item in site.data.news.all %}
+  <p><strong><font class="new">NEW! </font></strong>{{ item | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+  {% endfor %}
+  <a href="#" onclick="hideBlock('allnews'); showBlock('news'); return false;" class="btn btn--inverse">Less</a>
+</div>
