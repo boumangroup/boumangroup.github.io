@@ -1,0 +1,32 @@
+{% include base_path %}
+
+<div class="row">
+  <div class="text-center" style="padding-bottom: 9px;">
+    <button class="btn btn--info btn-lg pull-left" onclick="step(-1)">Previous Example</button>
+    <!--span id="image-title"></span-->
+    <button class="btn btn--info btn-lg pull-right" onclick="step(1)">Next Example</button>
+  </div>
+</div>
+<div style="clear: both;">
+  <div style="width: 60%; float: left;">
+    <h4>Reference captions</h4>
+    <div id="ref-panel"></div>
+  </div>
+  <div style="width: 40%; float: left;">
+    <img id="caption-img" class="img-thumbnail" style="margin-top: 20px; max-height: 200px;">
+  </div>
+  <div style="width: 60%; float: left;">
+    <h4>Reference scene graph</h4>
+    <div id="reference"></div>
+  </div>
+  <div style="width: 40%; float: left;">
+    <h4>Candidate caption & scene graph</h4>
+    <div>
+      <p id="candidate-caption"></p>
+      <div id="candidate"></div>
+      <p id="candidate-scores"></p>
+    </div>
+  </div>
+  <div style="clear: both;"></div>
+</div>
+<script src="{{ site.url }}{{ site.baseurl }}/images/scene-graph.js"></script>

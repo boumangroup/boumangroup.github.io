@@ -1,0 +1,4 @@
+# Navigation bar links
+main:
+  - title: "Publications"
+    url: /publications/
