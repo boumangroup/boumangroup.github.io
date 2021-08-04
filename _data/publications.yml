@@ -1,106 +1,24 @@
 # Publications on home page
-year2021:
-  - title: "PanGEA: The Panoramic Graph Environment Annotation Toolkit"
-    authors: "Alex Ku, **Peter Anderson**, Jordi Pont-Tuset, Jason Baldridge"
-    venue: "arXiv preprint 2103.12703, 2021."
-    teaser: pangea-teaser.png
+conference:
+  - title: "Deep Probabilistic Imaging: Uncertainty Quantification and Multi-modal Solution Characterization for Computational Imaging"
+    authors: "H. Sun, K.L. Bouman"
+    venue: "arXiv preprint 2010.14462, 2020."
+    teaser: publications/smiley.jpg
     links:
-      - "[PDF](https://arxiv.org/pdf/2103.12703.pdf){: .btn .btn--info}"
-      - "[Code](https://github.com/google-research/pangea){: .btn .btn--inverse}"
-  - title: "On the Evaluation of Vision-and-Language Navigation Instructions"
-    authors: "Ming Zhao, **Peter Anderson**, Vihan Jain, Su Wang, Alex Ku, Jason Baldridge, Eugene Ie"
-    venue: "In *Conference of the European Chapter of the Association for Computational Linguistics (EACL)*, 2021."
-    teaser: compatibility-teaser.png
+      - "[arXiv pre-print](https://arxiv.org/abs/2010.14462){: .btn .btn--info}"
+      - "[Project Website & Code](http://imaging.cms.caltech.edu/dpi/){: .btn .btn--inverse}"
+  - title: "Learning a Probabilistic Strategy for Computational Imaging Sensor Selection"
+    authors: "H. Sun, A.V. Dalca, K.L. Bouman"
+    venue: "Proceedings of the International Conference on Computational Photography (ICCP), 2020."
+    teaser: publications/smiley.jpg
     links:
-      - "[PDF](https://arxiv.org/pdf/2101.10504.pdf){: .btn .btn--info}"
-year2020:
-  - title: "Sim-to-Real Transfer for Vision-and-Language Navigation"
-    authors: "**Peter Anderson**, Ayush Shrivastava, Joanne Truong, Arjun Majumdar, Devi Parikh, Dhruv Batra, Stefan Lee"
-    venue: "In *Conference on Robot Learning (CoRL)*, 2020."
-    teaser: sim2real-teaser.png
+      - "[Paper](https://arxiv.org/abs/2003.10424){: .btn .btn--info}"
+      - "[Project Website & Code](http://cosense.cms.caltech.edu/){: .btn .btn--inverse}"
+
+journal:
+  - title: "Wind speed inference from environmental flow-structure interactions"
+    authors: "J. Cardona, K.L. Bouman, J. Dabiri"
+    venue: "Flow, 2020."
+    teaser: publications/smiley.jpg
     links:
-      - "[PDF](https://arxiv.org/pdf/2011.03807){: .btn .btn--info}"
-      - "[Code](https://github.com/batra-mlp-lab/vln-sim2real){: .btn .btn--inverse}"
-      - "[Video](https://www.youtube.com/watch?v=THfTK7_xLX8){: .btn}"
-  - title: "Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding"
-    authors: "Alex Ku&#42;, **Peter Anderson**&#42;, Roma Patel, Eugene Ie, Jason Baldridge"
-    venue: "In *Conference on Empirical Methods for Natural Language Processing (EMNLP)*, 2020."
-    teaser: rxr-teaser.png
-    links:
-      - "[Blog](https://ai.googleblog.com/2021/01/rxr-multilingual-benchmark-for.html){: .btn .btn--success}"
-      - "[PDF](https://arxiv.org/pdf/2010.07954){: .btn .btn--info}"
-      - "[Dataset](https://github.com/google-research-datasets/RxR){: .btn .btn--inverse}"
-      - "[Leaderboard](https://ai.google.com/research/rxr/){: .btn}"
-      - "[PanGEA Code](https://github.com/google-research/pangea){: .btn .btn--inverse}"
-  - title: "Where Are You? Localization from Embodied Dialog"
-    authors: "Meera Hahn, Jacob Krantz, Dhruv Batra, Devi Parikh, James Rehg, Stefan Lee, **Peter Anderson**"
-    venue: "In *Conference on Empirical Methods for Natural Language Processing (EMNLP)*, 2020."
-    teaser: led-teaser.png
-    links:
-          - "[Project](https://meerahahn.github.io/way/){: .btn .btn--success}"
-          - "[PDF](https://meerahahn.github.io/way/static/img/way/Localization_Via_Dialogue_EMNLP_2020.pdf){: .btn .btn--info}"
-          - "[Code](https://github.com/batra-mlp-lab/WAY/){: .btn .btn--inverse}"
-          - "[Video](https://www.youtube.com/watch?v=iMbkLC_9FKs){: .btn}"
-  - title: "Spatially Aware Multimodal Transformers for TextVQA"
-    authors: "Yash Kant, Dhruv Batra, **Peter Anderson**, Alex Schwing, Devi Parikh, Jiasen Lu, Harsh Agrawal"
-    venue: "In *Proceedings of the European Conference on Computer Vision (ECCV)*, 2020."
-    teaser: textvqa-teaser.png
-    links:
-      - "[Project](https://yashkant.github.io/projects/sam-textvqa.html){: .btn .btn--success}"
-      - "[PDF](https://arxiv.org/pdf/2007.12146.pdf){: .btn .btn--info}"
-      - "[Code](https://github.com/yashkant/sam-textvqa){: .btn .btn--inverse}"
-      - "[Video](https://www.youtube.com/watch?v=rO89lcTvz2U){: .btn}"
-      - "[Slides](https://yashkant.github.io/data/sam-textvqa/slides.pdf){: .btn}"
-  - title: "Improving Vision-and-Language Navigation with Image-Text Pairs from the Web"
-    authors: "Arjun Majumdar, Ayush Shrivastava, Stefan Lee, **Peter Anderson**, Devi Parikh, Dhruv Batra"
-    venue: "In *Proceedings of the European Conference on Computer Vision (ECCV)*, 2020. **Spotlight Presentation [Top 5%]**{:.oral}"
-    teaser: vln-bert-teaser-small.png
-    links:
-      - "[PDF](https://arxiv.org/pdf/2004.14973.pdf){: .btn .btn--info}"
-      - "[Video](https://www.youtube.com/watch?v=Q4m3p3AYTOg){: .btn}"
-  - title: "REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments"
-    authors: "Yuankai Qi, Qi Wu, **Peter Anderson**, Xin Wang, William Yang Wang, Chunhua Shen, Anton van den Hengel"
-    venue: "In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2020. **Oral Presentation [Top 5.7%]**{:.oral}"
-    teaser: rerere.png
-    links:
-      - "[PDF](https://arxiv.org/pdf/1904.10151.pdf){: .btn .btn--info}"
-      - "[Code](https://github.com/YuankaiQi/REVERIE){: .btn .btn--inverse}"
-      - "[Leaderboard](https://evalai.cloudcv.org/web/challenges/challenge-page/606/overview){: .btn}"
-year2019:
-  - title: "Chasing Ghosts: Instruction Following as Bayesian State Tracking"
-    authors: "**Peter Anderson**&#42;, Ayush Shrivastava&#42;, Devi Parikh, Dhruv Batra, Stefan Lee"
-    venue: "In *Advances in Neural Information Processing Systems (NeurIPS)*, 2019."
-    teaser: chasing_ghosts.png
-    links:
-      - "[PDF](https://arxiv.org/pdf/1907.02022.pdf){: .btn .btn--info}"
-      - "[Video](https://www.youtube.com/watch?v=eoGbescCNP0){: .btn}"
-      - "[Poster](/images/vln-neurips19-poster.pdf){: .btn}"
-      - "[Code](https://github.com/batra-mlp-lab/vln-chasing-ghosts){: .btn .btn--inverse}"
-  - title: "nocaps: novel object captioning at scale"
-    authors: "Harsh Agrawal&#42;, Karan Desai&#42;, Yufei Wang, Xinlei Chen, Rishabh Jain, Mark Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, **Peter Anderson**"
-    venue: "In *International Conference on Computer Vision (ICCV)*, 2019."
-    teaser: nocaps.jpg
-    links:
-      - "[Project](https://nocaps.org/){: .btn .btn--success}"
-      - "[PDF](https://arxiv.org/pdf/1812.08658.pdf){: .btn .btn--info}"
-      - "[Code](https://github.com/nocaps-org){: .btn .btn--inverse}"
-  - title: "Audio-Visual Scene-Aware Dialog"
-    authors: "Huda Alamri, Vincent Cartillier, Abhishek Das, Jue Wang, Anoop Cherian, Irfan Essa, Dhruv Batra, Tim K. Marks, Chiori Hori, **Peter Anderson**, Stefan Lee, Devi Parikh"
-    venue: "In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2019."
-    teaser: avsd.png
-    links:
-      - "[Project](https://video-dialog.com/){: .btn .btn--success}"
-      - "[PDF](https://arxiv.org/pdf/1901.09107.pdf){: .btn .btn--info}"
-  - title: "Visual Landmark Selection for Generating Grounded and Interpretable Navigation Instructions"
-    authors: "Sanyam Agarwal, Devi Parikh, Dhruv Batra, **Peter Anderson**, Stefan Lee"
-    venue: "In *CVPR Workshop on Deep Learning for Semantic Visual Navigation*, 2019."
-    teaser: VLN-gen.png
-    links:
-      - "[PDF](/images/visual-landmarks.pdf){: .btn .btn--info}"
-  - title: "Trainable Decoding of Sets of Sequences for Neural Sequence Models"
-    authors: "Ashwin Kalyan, **Peter Anderson**, Stefan Lee, Dhruv Batra"
-    venue: "In *International Conference on Machine Learning (ICML)*, 2019."
-    teaser: sets_of_sequences.png
-    links:
-      - "[PDF](http://proceedings.mlr.press/v97/kalyan19a/kalyan19a.pdf){: .btn .btn--info}"
-      - "[Code](https://github.com/ashwinkalyan/diff-bs){: .btn .btn--inverse}"
+      - "[arXiv pre-print](https://arxiv.org/abs/2011.09609){: .btn .btn--info}"

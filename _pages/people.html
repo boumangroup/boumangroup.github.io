@@ -1,0 +1,10 @@
+---
+layout: single
+permalink: /people/
+title: "People"
+---
+
+{% for people in site.data.people %}
+  {% include people-single.html %}
+{% endfor %}
+<div style="clear: both;"></div>

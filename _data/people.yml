@@ -1,0 +1,16 @@
+# People page
+- name: "[Berthy Feng](https://berthyfeng.com)"
+  title: "PhD Student"
+  photo: people/bfeng.jpg
+- name: "[Angela Gao](https://angelafgao.github.io/)"
+  title: "PhD Student"
+  photo: people/agao.jpg
+- name: "[Zihui (Ray) Wu](https://zihuiwu.github.io/)"
+  title: "PhD Student"
+  photo: people/zwu.jpg
+- name: "[He Sun](http://users.cms.caltech.edu/~hesun/)"
+  title: "Postdoctoral Researcher"
+  photo: people/hsun.jpg
+- name: "[Aviad Levis](https://www.aviadlevis.com/about)"
+  title: "Postdoctoral Researcher"
+  photo: people/alevis.jpg

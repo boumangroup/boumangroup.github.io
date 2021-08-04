@@ -19,3 +19,6 @@ $ npm run build:css
 ## Editing Content
 * News: `_data/news.yml`
 * Publications: `_data/publications.yml`
+* People: `_data/people.yml`
+
+**Note**: Most fields will Markdown-ified.
