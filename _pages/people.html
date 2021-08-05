@@ -2,9 +2,30 @@
 layout: single
 permalink: /people/
 title: "People"
+header:
+  image: group/jumping.jpg
 ---
 
-{% for people in site.data.people %}
-  {% include people-single.html %}
-{% endfor %}
+<h2>Postdoctoral Researchers</h2>
+<div class="photo-row">
+  {% for people in site.data.people.postdoc %}
+    {% include people-single.html %}
+  {% endfor %}
+</div>
+<div style="clear: both;"></div>
+
+<h2>PhD Students</h2>
+<div class="photo-row">
+  {% for people in site.data.people.phd %}
+    {% include people-single.html %}
+  {% endfor %}
+</div>
+<div style="clear: both;"></div>
+
+<h2>Undergraduate Students</h2>
+<div class="photo-row">
+  {% for people in site.data.people.undergrad %}
+    {% include people-single.html %}
+  {% endfor %}
+</div>
 <div style="clear: both;"></div>

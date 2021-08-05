@@ -1,5 +1,7 @@
 ---
 layout: single
+header:
+  image: group/lab.jpg
 ---
 
 {% include base_path %}
@@ -16,4 +18,11 @@ layout: single
   <p><strong><font class="new">NEW! </font></strong>{{ item | markdownify | remove: '<p>' | remove: '</p>'}}</p>
   {% endfor %}
   <a href="#" onclick="hideBlock('allnews'); showBlock('news'); return false;" class="btn btn--inverse">Less</a>
+</div>
+
+<h2>Highlighted Projects</h2>
+<div class="photo-row">
+  {% for publication in site.data.publications.highlight %}
+    {% include publication-highlight-single.html %}
+  {% endfor %}
 </div>

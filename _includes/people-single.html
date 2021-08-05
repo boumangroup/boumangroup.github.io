@@ -4,27 +4,19 @@
   {% capture photo %}{{ people.photo }}{% endcapture %}
 {% endif %}
 
-<div style="clear: both;">
-  <article class="publication__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <div class="publication__item-teaser" style="margin-top: 1em; height: 180px;">
-      <img itemprop="image" style="height: 100%;" src=
-        {% if photo contains "://" %}
-          "{{ photo }}"
-        {% else %}
-          "{{ photo | prepend: "/images/" | prepend: base_path }}"
-        {% endif %}
-        alt="">
-    </div>
-    <div class="publication__item-text">
-      <h2 class="publication__item-title" itemprop="headline">
+<div style="clear: both;"> 
+  <div class="publication__item-teaser" style="margin-top: 1em; height: 180px;">
+    <img itemprop="image" src=
+    {% if photo contains "://" %}
+        "{{ photo }}"
+    {% else %}
+        "{{ photo | prepend: "/images/" | prepend: base_path }}"
+    {% endif %}
+    alt="">
+  </div>
+  <div class="publication__item-text">
+    <h2 class="publication__item-title" style="text-align: center;">
         {{ people.name | markdownify }}
-      </h2>
-      <p style="margin-top: -2em;">{{ people.title | markdownify | remove: '<p>' | remove: '</p>'}}</p>
-      <p style="margin-top: -1em;">
-        {% for link in people.links %}
-          {{ link | markdownify | remove: '<p>' | remove: '</p>'}}
-        {% endfor %}
-      </p>
-    </div>
-  </article>
+    </h2>
+  </div> 
 </div>

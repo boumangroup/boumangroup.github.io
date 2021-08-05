@@ -1,4 +1,12 @@
-# Publications on home page
+# Publications
+highlight:  # publications to be shown on home page
+  - title: "[Deep Probabilistic Imaging](http://imaging.cms.caltech.edu/dpi/)"
+    teaser: publications/smiley.jpg
+  - title: "[Deep Probabilistic Imaging](http://imaging.cms.caltech.edu/dpi/)"
+    teaser: publications/smiley.jpg
+  - title: "[Deep Probabilistic Imaging](http://imaging.cms.caltech.edu/dpi/)"
+    teaser: publications/smiley.jpg
+  
 conference:
   - title: "Deep Probabilistic Imaging: Uncertainty Quantification and Multi-modal Solution Characterization for Computational Imaging"
     authors: "H. Sun, K.L. Bouman"

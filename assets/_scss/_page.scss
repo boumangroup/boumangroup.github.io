@@ -321,3 +321,15 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Highlighted Projects Section
+   ========================================================================== */
+.photo-row {
+  display: grid;
+  color: black;
+  grid-template-columns: repeat(auto-fit, 210px);
+  grid-column-gap: 1vw;
+  grid-row-gap: 2vw;
+  padding-top: 1vw;
+}

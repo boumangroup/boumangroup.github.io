@@ -1,0 +1,22 @@
+{% include base_path %}
+
+{% if publication.teaser %}
+  {% capture teaser %}{{ publication.teaser }}{% endcapture %}
+{% endif %}
+
+<div style="clear: both;">
+    <div class="publication__item-teaser" style="height: auto;">
+        <img itemprop="image" src=
+        {% if teaser contains "://" %}
+            "{{ teaser }}"
+        {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+        {% endif %}
+        alt="">
+    </div>
+    <div class="publication__item-text">
+        <h2 class="publication__item-title" style="text-align: center;">
+            {{ publication.title | markdownify }}
+        </h2>
+    </div> 
+</div>
