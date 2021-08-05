@@ -23,3 +23,6 @@ $ npm run build:css
 * Highlighted Projects: `_data/publications.yml` (under "highlight")
 
 **Note**: Most fields will Markdown-ified.
+
+### TODOs
+* Indicate current page in navbar.
