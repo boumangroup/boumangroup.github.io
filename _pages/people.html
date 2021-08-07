@@ -4,6 +4,13 @@ permalink: /people/
 header:
   image: group/jumping.jpg
 ---
+<h2>PI</h2>
+<div class="photo-row">
+  {% for people in site.data.people.pi %}
+    {% include people-single.html %}
+  {% endfor %}
+</div>
+<div style="clear: both;"></div>
 
 <h2>Postdoctoral Researchers</h2>
 <div class="photo-row">

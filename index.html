@@ -6,6 +6,14 @@ header:
 
 {% include base_path %}
 
+<h2>About</h2>
+<div id="about">
+  <p>
+    {% capture about %}{% include about.md %}{% endcapture %}
+    {{ about | markdownify }}
+</p>
+</div>
+
 <h2>News</h2>
 <div id="news">
   {% for item in site.data.news.main %}

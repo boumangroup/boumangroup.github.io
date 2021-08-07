@@ -20,7 +20,8 @@ $ npm run build:css
 * News: `_data/news.yml`
 * People: `_data/people.yml`
 * Publications: `_data/publications.yml`
-* Highlighted Projects: `_data/publications.yml` (under "highlight")
+* Highlighted Projects section: `_data/publications.yml` (under "highlight")
+* About section: `_includes/about.md`
 
 **Note**: Most fields will Markdown-ified.
 

@@ -1,4 +1,8 @@
 # People page
+pi:
+- name: "[Katherine L. Bouman](http://users.cms.caltech.edu/~klbouman/index.html)"
+  title: "Assistant Professor"
+  photo: people/klbouman.jpg
 postdoc:
 - name: "[He Sun](http://users.cms.caltech.edu/~hesun/)"
   title: "Postdoctoral Researcher"
