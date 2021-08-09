@@ -81,7 +81,7 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
+      color: $gray;
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -222,7 +222,6 @@
     }
 
     a {
-      position: relative;
 
       &:before {
         content: "";
@@ -237,7 +236,7 @@
       }
 
       &:hover:before {
-        transform: scaleX(1); // reveal
+        transform: scaleX(0); // change to scaleX(1) to reveal
       }
     }
   }

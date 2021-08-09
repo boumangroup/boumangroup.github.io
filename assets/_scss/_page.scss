@@ -55,6 +55,11 @@
     border-bottom: 1px solid $border-color;
   }
 
+  h3 {
+    color: $info-color;
+    padding-bottom: 1em;
+  }
+
   p, li, dl {
     font-size: 0.85em;
   }
@@ -350,4 +355,13 @@
   grid-column-gap: 1vw;
   grid-row-gap: 2vw;
   padding-top: 1vw;
+}
+
+// Style for h2 headers on home page
+.home-header {
+  color: $caltech-orange;
+}
+
+.new {
+  color: $info-color;
 }

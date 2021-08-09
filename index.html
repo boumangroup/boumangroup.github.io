@@ -6,7 +6,8 @@ header:
 
 {% include base_path %}
 
-<h2>About</h2>
+<!-- ABOUT -->
+<h2 class="home-header" style="margin-top: 0;">ABOUT</h2>
 <div id="about">
   <p>
     {% capture about %}{% include about.md %}{% endcapture %}
@@ -14,7 +15,16 @@ header:
 </p>
 </div>
 
-<h2>News</h2>
+<!-- HIGHLIGHTED PROJECTS -->
+<h2 class="home-header">HIGHLIGHTED PROJECTS</h2>
+<div class="photo-row">
+  {% for publication in site.data.publications.highlight %}
+    {% include publication-highlight-single.html %}
+  {% endfor %}
+</div>
+
+<!-- NEWS -->
+<h2 class="home-header">NEWS</h2>
 <div id="news">
   {% for item in site.data.news.main %}
   <p><strong><font class="new">{{ item.date | markdownify | remove: '<p>' | remove: '</p>'}} </font></strong>{{ item.info | markdownify | remove: '<p>' | remove: '</p>'}}</p>
@@ -26,11 +36,4 @@ header:
   <p><strong><font class="new">{{ item.date | markdownify | remove: '<p>' | remove: '</p>'}} </font></strong>{{ item.info | markdownify | remove: '<p>' | remove: '</p>'}}</p>
   {% endfor %}
   <a href="#" onclick="hideBlock('allnews'); showBlock('news'); return false;" class="btn btn--inverse">Less</a>
-</div>
-
-<h2>Highlighted Projects</h2>
-<div class="photo-row">
-  {% for publication in site.data.publications.highlight %}
-    {% include publication-highlight-single.html %}
-  {% endfor %}
 </div>

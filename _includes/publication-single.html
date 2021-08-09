@@ -16,9 +16,9 @@
         alt="">
     </div>
     <div class="publication__item-text">
-      <h2 class="publication__item-title" itemprop="headline">
+      <h3 class="publication__item-title" itemprop="headline">
         {{ publication.title | markdownify }}
-      </h2>
+      </h3>
       <p style="margin-top: -2em;">{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>'}}</p>
       <p style="margin-top: -1em;">{{ publication.venue | markdownify | remove: '<p>' | remove: '</p>'}}</p>
       <p style="margin-top: -1em;">
