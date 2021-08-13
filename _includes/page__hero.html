@@ -50,7 +50,11 @@
   <div class="page__hero-image">
     <img src="{{ img_path }}" alt="{{ page.title }}">
   </div>
-  <div class="page__hero-image-gradient"></div>
+  <div class="page__hero-image-gradient">
+    {% if page.tagline %}
+      <span><p class="page__lead">{{ page.tagline | markdownify | remove: "<p>" | remove: "</p>" }}</p></span>
+    {% endif %}
+  </div>
   {% endif %}
   {% if page.header.caption %}
     <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>

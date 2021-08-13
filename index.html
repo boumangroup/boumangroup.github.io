@@ -1,5 +1,6 @@
 ---
 layout: single
+tagline: "Designing systems that tightly integrate algorithm and sensor design to *image the invisible*"
 header:
   image: group/lab.jpg
 ---
@@ -7,16 +8,16 @@ header:
 {% include base_path %}
 
 <!-- ABOUT -->
-<h2 class="home-header" style="margin-top: 0;">About</h2>
+<!-- <h2 class="home-header" style="margin-top: 0;">About</h2>
 <div id="about">
   <p>
     {% capture about %}{% include about.md %}{% endcapture %}
     {{ about | markdownify }}
   </p>
-</div>
+</div> -->
 
 <!-- HIGHLIGHTED PROJECTS -->
-<h2 class="home-header">Highlighted Projects</h2>
+<h2 class="home-header" style="margin-top: 0;">Highlighted Projects</h2>
 <div class="photo-row">
   {% for publication in site.data.publications.highlight %}
     {% include publication-highlight-single.html %}

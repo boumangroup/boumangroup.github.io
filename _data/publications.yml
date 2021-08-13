@@ -21,12 +21,12 @@ Sparse Interferometric Measurements"
     teaser: publications/smiley.jpg
     links:
       - "[arXiv pre-print](https://arxiv.org/abs/2104.14030){: .btn .btn--orange}"
-  - title: "Visual Vibration Tomography: Estimating Interior Material Properties from Monocular Video"
-    authors: "B.T. Feng, A.C. Ogren, C. Daraio, K.L. Bouman"
-    venue: "arXiv preprint 2104.02735, 2021"
+  - title: "End-to-End Sequential Sampling and Reconstruction for MR Imaging"
+    authors: "T. Yin and Z. Wu, H. Sun, A.V. Dalca, Y. Yue, K.L. Bouman"
+    venue: "arXiv preprint 2105.06460, 2021"
     teaser: publications/smiley.jpg
     links:
-      - "[arXiv pre-print](https://arxiv.org/abs/2104.02735){: .btn .btn--orange}"
+      - "[arXiv pre-print](https://arxiv.org/abs/2105.06460){: .btn .btn--orange}"
   - title: "Deep Probabilistic Imaging: Uncertainty Quantification and Multi-modal Solution Characterization for Computational Imaging"
     authors: "H. Sun, K.L. Bouman"
     venue: "arXiv preprint 2010.14462, 2020"
