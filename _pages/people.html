@@ -2,7 +2,7 @@
 layout: single
 permalink: /people/
 header:
-  image: group/jumping.jpg
+  image: group/hiking.jpg
 ---
 <h2 style="margin-top: 0;">PI</h2>
 <div class="photo-row">
@@ -29,9 +29,9 @@ header:
 <div style="clear: both;"></div>
 
 <h2>Undergraduate Students</h2>
-<div class="photo-row">
+<ul>
   {% for people in site.data.people.undergrad %}
-    {% include people-single.html %}
+    <li>{{ people.name | markdownify }}</li>
   {% endfor %}
-</div>
+</ul>
 <div style="clear: both;"></div>

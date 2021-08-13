@@ -75,6 +75,14 @@
     }
   }
 
+  &--orange {
+    background-color: $caltech-orange;
+
+    &:hover {
+      background-color: mix(#000, $caltech-orange, 20%);
+    }
+  }
+
   /* warning */
 
   &--warning {

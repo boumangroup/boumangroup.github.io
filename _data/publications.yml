@@ -7,26 +7,51 @@ highlight:  # publications to be shown on home page
   - title: "[Deep Probabilistic Imaging](http://imaging.cms.caltech.edu/dpi/)"
     teaser: publications/smiley.jpg
   
-conference:
-  - title: "Deep Probabilistic Imaging: Uncertainty Quantification and Multi-modal Solution Characterization for Computational Imaging"
-    authors: "H. Sun, K.L. Bouman"
-    venue: "arXiv preprint 2010.14462, 2020."
+papers:
+  - title: "Inference of Black Hole Fluid-Dynamics from
+Sparse Interferometric Measurements"
+    authors: "A. Levis, D. Lee, J.A. Tropp, C.F. Gammie, K.L. Bouman"
+    venue: "Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2021"
     teaser: publications/smiley.jpg
     links:
-      - "[arXiv pre-print](https://arxiv.org/abs/2010.14462){: .btn .btn--info}"
+      - "[Project Website & Code](http://imaging.cms.caltech.edu/stochastic_inference/){: .btn .btn--inverse}"
+  - title: "Measurement-Robust Control Barrier Functions: Certainty in Safety with Uncertainty in State"
+    authors: "R.K. Cosner, A.W. Singletary, A.J. Taylor, T.G. Molnar, K.L. Bouman, A.D. Ames"
+    venue: "Proceedings of the International Conference on Intelligent Robots and Systems (IROS), 2021"
+    teaser: publications/smiley.jpg
+    links:
+      - "[arXiv pre-print](https://arxiv.org/abs/2104.14030){: .btn .btn--orange}"
+  - title: "Visual Vibration Tomography: Estimating Interior Material Properties from Monocular Video"
+    authors: "B.T. Feng, A.C. Ogren, C. Daraio, K.L. Bouman"
+    venue: "arXiv preprint 2104.02735, 2021"
+    teaser: publications/smiley.jpg
+    links:
+      - "[arXiv pre-print](https://arxiv.org/abs/2104.02735){: .btn .btn--orange}"
+  - title: "Deep Probabilistic Imaging: Uncertainty Quantification and Multi-modal Solution Characterization for Computational Imaging"
+    authors: "H. Sun, K.L. Bouman"
+    venue: "arXiv preprint 2010.14462, 2020"
+    teaser: publications/smiley.jpg
+    links:
+      - "[arXiv pre-print](https://arxiv.org/abs/2010.14462){: .btn .btn--orange}"
       - "[Project Website & Code](http://imaging.cms.caltech.edu/dpi/){: .btn .btn--inverse}"
   - title: "Learning a Probabilistic Strategy for Computational Imaging Sensor Selection"
     authors: "H. Sun, A.V. Dalca, K.L. Bouman"
-    venue: "Proceedings of the International Conference on Computational Photography (ICCP), 2020."
+    venue: "Proceedings of the International Conference on Computational Photography (ICCP), 2020"
     teaser: publications/smiley.jpg
     links:
-      - "[Paper](https://arxiv.org/abs/2003.10424){: .btn .btn--info}"
+      - "[Paper](https://arxiv.org/abs/2003.10424){: .btn .btn--orange}"
       - "[Project Website & Code](http://cosense.cms.caltech.edu/){: .btn .btn--inverse}"
 
 journal:
-  - title: "Wind speed inference from environmental flow-structure interactions"
-    authors: "J. Cardona, K.L. Bouman, J. Dabiri"
-    venue: "Flow, 2020."
+  - title: "Event Horizon Telescope observations of the jet launching and collimation in Centaurus A"
+    authors: "M. Janssen, H. Falcke, M. Kadler, E. Ros, M. Wielgus, K. Akiyama, M. Baloković, L. Blackburn, K.L. Bouman, A. Chael, C. Chan, K. Chatterjee, J. Davelaar, P.G. Edwards, C.M. Fromm, J.L. Gómez, C. Goddi, S. Issaoun, M.D. Johnson, J. Kim, Jun Yi Koay, T.P. Krichbaum, J. Liu, E. Liuzzo, S. Markoff, A. Markowitz, D.P. Marrone, Y. Mizuno, C. Müller, C. Ni, D.W. Pesce, V. Ramakrishnan, F. Roelofs, K.L.J. Rygl, I. van Bemmel & The Event Horizon Telescope Collaboration"
+    venue: "Nature Astronomy, 2021"
     teaser: publications/smiley.jpg
     links:
-      - "[arXiv pre-print](https://arxiv.org/abs/2011.09609){: .btn .btn--info}"
+      - "[Paper](https://www.nature.com/articles/s41550-021-01417-w){: .btn .btn--orange}"
+  - title: "Wind speed inference from environmental flow-structure interactions"
+    authors: "J. Cardona, K.L. Bouman, J. Dabiri"
+    venue: "Flow, 2020"
+    teaser: publications/smiley.jpg
+    links:
+      - "[arXiv pre-print](https://arxiv.org/abs/2011.09609){: .btn .btn--orange}"

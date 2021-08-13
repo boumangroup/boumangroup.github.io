@@ -61,7 +61,7 @@
   }
 
   p, li, dl {
-    font-size: 0.85em;
+    font-size: 0.9em;
   }
 
   /* paragraph indents */
@@ -360,8 +360,10 @@
 // Style for h2 headers on home page
 .home-header {
   color: $caltech-orange;
+  text-transform: uppercase;
 }
 
 .new {
   color: $info-color;
+  font-weight: 700;
 }

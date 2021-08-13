@@ -7,16 +7,16 @@ header:
 {% include base_path %}
 
 <!-- ABOUT -->
-<h2 class="home-header" style="margin-top: 0;">ABOUT</h2>
+<h2 class="home-header" style="margin-top: 0;">About</h2>
 <div id="about">
   <p>
     {% capture about %}{% include about.md %}{% endcapture %}
     {{ about | markdownify }}
-</p>
+  </p>
 </div>
 
 <!-- HIGHLIGHTED PROJECTS -->
-<h2 class="home-header">HIGHLIGHTED PROJECTS</h2>
+<h2 class="home-header">Highlighted Projects</h2>
 <div class="photo-row">
   {% for publication in site.data.publications.highlight %}
     {% include publication-highlight-single.html %}
@@ -24,7 +24,7 @@ header:
 </div>
 
 <!-- NEWS -->
-<h2 class="home-header">NEWS</h2>
+<h2 class="home-header">News</h2>
 <div id="news">
   {% for item in site.data.news.main %}
   <p><strong><font class="new">{{ item.date | markdownify | remove: '<p>' | remove: '</p>'}} </font></strong>{{ item.info | markdownify | remove: '<p>' | remove: '</p>'}}</p>
