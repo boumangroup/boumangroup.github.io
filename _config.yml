@@ -102,3 +102,6 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Google API
+google_maps_javascript_api_key: "AIzaSyCM2wB52FFn8Nhu3b4pR2E_XoYLzRtcWjs"

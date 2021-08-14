@@ -5,26 +5,11 @@ permalink: /visit/
 
 {% include base_path %}
 
-{% capture about %}{% include visit.md %}{% endcapture %}
-{{ about | markdownify }}
+<div class="visit-container">
+    <div id="visit-text">
+        {% capture about %}{% include visit.md %}{% endcapture %}
+        {{ about | markdownify }}
+    </div>
 
-<div id="map"></div>
-
-<!-- Async script executes immediately and must be after any DOM elements used in callback. -->
-<script>
-    // Initialize and add the map
-    function initMap() {
-      // The location of Uluru
-      const uluru = { lat: -25.344, lng: 131.036 };
-      // The map, centered at Uluru
-      const map = new google.maps.Map(document.getElementById("map"), {
-        zoom: 4,
-        center: uluru,
-      });
-      // The marker, positioned at Uluru
-      const marker = new google.maps.Marker({
-        position: uluru,
-        map: map,
-      });
-    }
-  </script>
+    <div id="map">{% include google-map.html latitude=34.138371022977 longitude=-118.12420081795395 zoom=10 %}</div>
+</div>

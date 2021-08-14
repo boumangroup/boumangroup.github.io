@@ -6,6 +6,8 @@ highlight:  # publications to be shown on home page
     teaser: publications/smiley.jpg
   - title: "[Deep Probabilistic Imaging](http://imaging.cms.caltech.edu/dpi/)"
     teaser: publications/smiley.jpg
+  - title: "[Deep Probabilistic Imaging](http://imaging.cms.caltech.edu/dpi/)"
+    teaser: publications/smiley.jpg
   
 papers:
   - title: "Inference of Black Hole Fluid-Dynamics from
