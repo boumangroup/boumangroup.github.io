@@ -1,19 +1,19 @@
 .visit-container {
-  display: table;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 2vw;
 }
 
-#visit-text {
-  display: table-cell;
-  width: 50%
-}
+// #visit-text {
+//   // display: table-cell;
+//   width: 50%
+// }
 
 #map {
-  display: table-cell;
-  height: 300px;
-  width: 300px;
-  margin: 1em;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
+  // display: table-cell;
+  position: relative;
+  min-height: 300px;
+  width: 100%;
+  margin: auto;
+  padding: 2vw;
 }

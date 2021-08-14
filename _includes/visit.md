@@ -1,4 +1,3 @@
-## Say hi!
 ### Prof. Bouman's Address
 Annenberg Center for Information Science and Technology, Room 346
 

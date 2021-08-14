@@ -5,6 +5,7 @@ permalink: /visit/
 
 {% include base_path %}
 
+<h2>Say Hi!</h2>
 <div class="visit-container">
     <div id="visit-text">
         {% capture about %}{% include visit.md %}{% endcapture %}
@@ -13,3 +14,6 @@ permalink: /visit/
 
     <div id="map">{% include google-map.html latitude=34.138371022977 longitude=-118.12420081795395 zoom=10 %}</div>
 </div>
+
+<h2>Lab Photos</h2>
+{% include photo-carousel.html height="50" unit="%" duration="5" %}
