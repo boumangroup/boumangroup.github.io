@@ -30,6 +30,10 @@
   padding-bottom: 0;
   font-family: $sans-serif-narrow;
 
+  a {
+    color: mix($caltech-orange, #fff, 90%);
+  }
+
   a + a {
     opacity: 0.5;
   }

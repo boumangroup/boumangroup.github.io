@@ -22,6 +22,7 @@ $ npm run build:css
 * Publications: `_data/publications.yml`
 * Highlighted Projects section: `_data/publications.yml` (under "highlight")
 * About section: `_includes/about.md`
+* Lab photos carousel: Add image(s) to `images/lab_photos` and add their filename(s) to `_data/lab-photos.md`
 
 **Note**: Most fields will Markdown-ified.
 

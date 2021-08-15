@@ -48,6 +48,7 @@ $type-size-8                : 0.625em;  // ~10px
    ========================================================================== */
 
 $caltech-orange             : #ff6c0c;
+$bold-color                 : #F9BE00;
 
 $gray                       : #76777B;
 $dark-gray                  : mix(#000, $gray, 40%);
@@ -66,7 +67,7 @@ $primary-color              : $gray;
 $success-color              : #62c462;
 $warning-color              : #f80606;
 $danger-color               : #ee5f5b;
-$info-color                 : #1E988A;
+$info-color                 : #003B4C;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -92,7 +93,7 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $caltech-orange;
+$link-color                 : #00A1DF;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $gray;
