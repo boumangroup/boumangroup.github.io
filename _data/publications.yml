@@ -14,13 +14,13 @@ papers:
 Sparse Interferometric Measurements"
     authors: "A. Levis, D. Lee, J.A. Tropp, C.F. Gammie, K.L. Bouman"
     venue: "Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2021"
-    teaser: publications/smiley.jpg
+    teaser: publications/alevis_iccv21.gif
     links:
       - "[Project Website & Code](http://imaging.cms.caltech.edu/stochastic_inference/){: .btn .btn--inverse}"
   - title: "Measurement-Robust Control Barrier Functions: Certainty in Safety with Uncertainty in State"
     authors: "R.K. Cosner, A.W. Singletary, A.J. Taylor, T.G. Molnar, K.L. Bouman, A.D. Ames"
     venue: "Proceedings of the International Conference on Intelligent Robots and Systems (IROS), 2021"
-    teaser: publications/smiley.jpg
+    teaser: publications/rkcosner_iros21.png
     links:
       - "[arXiv pre-print](https://arxiv.org/abs/2104.14030){: .btn .btn--orange}"
   - title: "End-to-End Sequential Sampling and Reconstruction for MR Imaging"
