@@ -44,9 +44,16 @@
 }
 
 .page__lead {
-  font-family: $global-font-family;
+  width: 80%;
+  font-family: $hero-font-family;
   font-size: $type-size-4;
-  color: rgba($primary-color, 0.9);
+  font-weight: 700;
+  color: $darker-gray;
+  text-shadow: 0.05em 0.05em 0.05em $light-gray;
+}
+
+.page__lead-emphasize {
+  color: $caltech-orange;
 }
 
 .page__content {

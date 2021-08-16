@@ -51,8 +51,12 @@
     <img src="{{ img_path }}" alt="{{ page.title }}">
   </div>
   <div class="page__hero-image-gradient">
-    {% if page.tagline %}
+    <!-- {% if page.tagline %}
       <span><p class="page__lead">{{ page.tagline | markdownify | remove: "<p>" | remove: "</p>" }}</p></span>
+    {% endif %} -->
+    <!-- HARD CODED TAGLINE -->
+    {% if page.tagline %}
+      <span><p class="page__lead">Designing systems that tightly integrate algorithm and sensor design to <font class="page__lead-emphasize"><em>image the invisible</em></font></p></span>
     {% endif %}
   </div>
   {% endif %}
