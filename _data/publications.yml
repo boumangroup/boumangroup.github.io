@@ -1,12 +1,16 @@
 # Publications
 highlight:  # publications to be shown on home page
-  - title: "[Deep Probabilistic Imaging](http://imaging.cms.caltech.edu/dpi/)"
+  - title: "Deep Probabilistic Imaging"
+    link: "http://imaging.cms.caltech.edu/dpi/"
     teaser: publications/smiley.jpg
-  - title: "[Deep Probabilistic Imaging](http://imaging.cms.caltech.edu/dpi/)"
+  - title: "Deep Probabilistic Imaging"
+    link: "http://imaging.cms.caltech.edu/dpi/"
     teaser: publications/smiley.jpg
-  - title: "[Deep Probabilistic Imaging](http://imaging.cms.caltech.edu/dpi/)"
+  - title: "Deep Probabilistic Imaging"
+    link: "http://imaging.cms.caltech.edu/dpi/"
     teaser: publications/smiley.jpg
-  - title: "[Deep Probabilistic Imaging](http://imaging.cms.caltech.edu/dpi/)"
+  - title: "Deep Probabilistic Imaging"
+    link: "http://imaging.cms.caltech.edu/dpi/"
     teaser: publications/smiley.jpg
   
 papers:
@@ -14,46 +18,100 @@ papers:
 Sparse Interferometric Measurements"
     authors: "A. Levis, D. Lee, J.A. Tropp, C.F. Gammie, K.L. Bouman"
     venue: "Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2021"
-    teaser: publications/alevis_iccv21.gif
+    # teaser: publications/alevis_iccv21.gif
     links:
       - "[Project Website & Code](http://imaging.cms.caltech.edu/stochastic_inference/){: .btn .btn--inverse}"
   - title: "Measurement-Robust Control Barrier Functions: Certainty in Safety with Uncertainty in State"
     authors: "R.K. Cosner, A.W. Singletary, A.J. Taylor, T.G. Molnar, K.L. Bouman, A.D. Ames"
     venue: "Proceedings of the International Conference on Intelligent Robots and Systems (IROS), 2021"
-    teaser: publications/rkcosner_iros21.png
     links:
       - "[arXiv pre-print](https://arxiv.org/abs/2104.14030){: .btn .btn--orange}"
   - title: "End-to-End Sequential Sampling and Reconstruction for MR Imaging"
     authors: "T. Yin and Z. Wu, H. Sun, A.V. Dalca, Y. Yue, K.L. Bouman"
     venue: "arXiv preprint 2105.06460, 2021"
-    teaser: publications/smiley.jpg
     links:
       - "[arXiv pre-print](https://arxiv.org/abs/2105.06460){: .btn .btn--orange}"
   - title: "Deep Probabilistic Imaging: Uncertainty Quantification and Multi-modal Solution Characterization for Computational Imaging"
     authors: "H. Sun, K.L. Bouman"
     venue: "arXiv preprint 2010.14462, 2020"
-    teaser: publications/smiley.jpg
     links:
       - "[arXiv pre-print](https://arxiv.org/abs/2010.14462){: .btn .btn--orange}"
       - "[Project Website & Code](http://imaging.cms.caltech.edu/dpi/){: .btn .btn--inverse}"
   - title: "Learning a Probabilistic Strategy for Computational Imaging Sensor Selection"
     authors: "H. Sun, A.V. Dalca, K.L. Bouman"
     venue: "Proceedings of the International Conference on Computational Photography (ICCP), 2020"
-    teaser: publications/smiley.jpg
     links:
       - "[Paper](https://arxiv.org/abs/2003.10424){: .btn .btn--orange}"
       - "[Project Website & Code](http://cosense.cms.caltech.edu/){: .btn .btn--inverse}"
 
 journal:
   - title: "Event Horizon Telescope observations of the jet launching and collimation in Centaurus A"
-    authors: "M. Janssen, H. Falcke, M. Kadler, E. Ros, M. Wielgus, K. Akiyama, M. Baloković, L. Blackburn, K.L. Bouman, A. Chael, C. Chan, K. Chatterjee, J. Davelaar, P.G. Edwards, C.M. Fromm, J.L. Gómez, C. Goddi, S. Issaoun, M.D. Johnson, J. Kim, Jun Yi Koay, T.P. Krichbaum, J. Liu, E. Liuzzo, S. Markoff, A. Markowitz, D.P. Marrone, Y. Mizuno, C. Müller, C. Ni, D.W. Pesce, V. Ramakrishnan, F. Roelofs, K.L.J. Rygl, I. van Bemmel & The Event Horizon Telescope Collaboration"
+    authors: "M. Janssen, H. Falcke, M. Kadler, E. Ros, M. Wielgus, K. Akiyama, M. Baloković, L. Blackburn, K.L. Bouman, A. Chael, C. Chan, K. Chatterjee, J. Davelaar, P.G. Edwards, C.M. Fromm, J.L. Gómez, C. Goddi, S. Issaoun, M.D. Johnson, J. Kim, Jun Yi Koay, T.P. Krichbaum, J. Liu, E. Liuzzo, S. Markoff, A. Markowitz, D.P. Marrone, Y. Mizuno, C. Müller, C. Ni, D.W. Pesce, V. Ramakrishnan, F. Roelofs, K.L.J. Rygl, I. van Bemmel, and the Event Horizon Telescope Collaboration"
     venue: "Nature Astronomy, 2021"
-    teaser: publications/smiley.jpg
     links:
       - "[Paper](https://www.nature.com/articles/s41550-021-01417-w){: .btn .btn--orange}"
   - title: "Wind speed inference from environmental flow-structure interactions"
     authors: "J. Cardona, K.L. Bouman, J. Dabiri"
-    venue: "Flow, 2020"
-    teaser: publications/smiley.jpg
+    venue: "Flow, 2021"
     links:
-      - "[arXiv pre-print](https://arxiv.org/abs/2011.09609){: .btn .btn--orange}"
+      - "[Paper](https://www.cambridge.org/core/journals/flow/article/wind-speed-inference-from-environmental-flowstructure-interactions/422CF5FD9C9DD7FE834E7C0FEBC7A2FA){: .btn .btn--orange}"
+  - title: "First M87 Event Horizon Telescope Results. VII. Polarization of the Ring"
+    authors: "The Event Horizon Telescope Collaboration, et al."
+    venue: "The Astrophysical Journal Letters, 2021"
+    links:
+      - "[Paper](https://iopscience.iop.org/article/10.3847/2041-8213/abe71d){: .btn .btn--orange}"
+  - title: "First M87 Event Horizon Telescope Results. VIII. Magnetic Field Structure near The Event Horizon"
+    authors: "The Event Horizon Telescope Collaboration, et al."
+    venue: "The Astrophysical Journal Letters, 2021"
+    links:
+      - "[Paper](https://iopscience.iop.org/article/10.3847/2041-8213/abe4de){: .btn .btn--orange}"
+  - title: "Event Horizon Telescope imaging of the archetypal blazar 3C 279 at an extreme 20 microarcsecond resolution"
+    authors: "J.Y. Kim, T.P. Krichbaum, A.E. Broderick, M. Wielgus, L. Blackburn, J.L Gomez, M.D. Johnson, K.L. Bouman, A. Chael, K. Akiyama, S. Jorstad, A.P. Marscher, S. Issaoun, M. Janssen, C.K. Chan, T. Savolainen, D. Pesce, F. Ozel, and the Event Horizon Telescope Collaboration"
+    venue: "Astronomy & Astrophysics, 2020"
+    links:
+      - "[Paper](https://www.aanda.org/articles/aa/pdf/forth/aa37493-20.pdf){: .btn .btn--orange}"
+  - title: "SYMBA: An end-to-end VLBI synthetic data generation pipeline"
+    authors: "J.Y. Kim, T.P. Krichbaum, A.E. Broderick, M. Wielgus, L. Blackburn, J.L Gomez, M.D. Johnson, K.L. Bouman, A. Chael, K. Akiyama, S. Jorstad, A.P. Marscher, S. Issaoun, M. Janssen, C.K. Chan, T. Savolainen, D. Pesce, F. Ozel, and the Event Horizon Telescope Collaboration"
+    venue: "Astronomy & Astrophysics, 2020"
+    links:
+      - "[Paper](https://www.aanda.org/articles/aa/pdf/2020/04/aa36622-19.pdf){: .btn .btn--orange}"
+  - title: "EHT-HOPS pipeline for millimeter VLBI data reduction"
+    authors: "L. Blackburn, C. Chan, G.B. Crew, V.L. Fish, S. Issaoun, M.D. Johnson, M. Wielgus, K. Akiyama, J. Barrett, K.L. Bouman, R. Cappallo, A.A. Chael, M. Janssen, C.J. Lonsdale, S.S. Doeleman"
+    venue: "The Astrophysical Journal Letters, 2019"
+    links:
+      - "[Paper](https://arxiv.org/abs/1903.08832){: .btn .btn--orange}"
+  - title: "Metrics and Motivations for Earth-Space VLBI: Time-Resolving Sgr A\\* with the Event Horizon Telescope"
+    authors: "D.C.M. Palumbo, S.S Doeleman, M.D. Johnson, K.L. Bouman, A.A. Chael"
+    venue: "The Astrophysical Journal Letters, 2019"
+    links:
+      - "[Paper](https://arxiv.org/abs/1906.08828){: .btn .btn--orange}"
+  - title: "First M87 Event Horizon Telescope Results. IV. Imaging the Central Supermassive Black Hole"
+    authors: "The Event Horizon Telescope Collaboration, et al. (K.L. Bouman was a Paper Coordinator)"
+    venue: "The Astrophysical Journal Letters, 2019"
+    links:
+      - "[Paper](https://iopscience.iop.org/article/10.3847/2041-8213/ab0e85/meta){: .btn .btn--orange}"
+  - title: "First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole"
+    authors: "The Event Horizon Telescope Collaboration, et al."
+    venue: "The Astrophysical Journal Letters, 2019"
+    links:
+      - "[Paper](https://iopscience.iop.org/article/10.3847/2041-8213/ab0ec7/meta){: .btn .btn--orange}"
+  - title: "First M87 Event Horizon Telescope Results. II. Array and Instrumentation"
+    authors: "The Event Horizon Telescope Collaboration, et al."
+    venue: "The Astrophysical Journal Letters, 2019"
+    links:
+      - "[Paper](https://iopscience.iop.org/article/10.3847/2041-8213/ab0c96/meta){: .btn .btn--orange}"
+  - title: "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration"
+    authors: "The Event Horizon Telescope Collaboration, et al."
+    venue: "The Astrophysical Journal Letters, 2019"
+    links:
+      - "[Paper](https://iopscience.iop.org/article/10.3847/2041-8213/ab0c57/meta){: .btn .btn--orange}"
+  - title: "First M87 Event Horizon Telescope Results. V. Physical Origin of the Asymmetric Ring"
+    authors: "The Event Horizon Telescope Collaboration, et al."
+    venue: "The Astrophysical Journal Letters, 2019"
+    links:
+      - "[Paper](https://iopscience.iop.org/article/10.3847/2041-8213/ab0f43/meta){: .btn .btn--orange}"
+  - title: "First M87 Event Horizon Telescope Results. VI. The Shadow and Mass of the Central Black Hole"
+    authors: "The Event Horizon Telescope Collaboration, et al."
+    venue: "The Astrophysical Journal Letters, 2019"
+    links:
+      - "[Paper](https://iopscience.iop.org/article/10.3847/2041-8213/ab1141/meta){: .btn .btn--orange}"

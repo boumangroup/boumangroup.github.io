@@ -5,28 +5,25 @@ header:
   image: group/collage.png
 ---
 <h2 style="margin-top: 0;">PI</h2>
-<div class="photo-row">
+<div class="project-highlights__container">
   {% for people in site.data.people.pi %}
     {% include people-single.html %}
   {% endfor %}
 </div>
-<div style="clear: both;"></div>
 
 <h2>Postdoctoral Researchers</h2>
-<div class="photo-row">
+<div class="project-highlights__container">
   {% for people in site.data.people.postdoc %}
     {% include people-single.html %}
   {% endfor %}
 </div>
-<div style="clear: both;"></div>
 
 <h2>PhD Students</h2>
-<div class="photo-row">
+<div class="project-highlights__container">
   {% for people in site.data.people.phd %}
     {% include people-single.html %}
   {% endfor %}
 </div>
-<div style="clear: both;"></div>
 
 <h2>Undergraduate Students</h2>
 <ul>
@@ -34,4 +31,3 @@ header:
     <li>{{ people.name | markdownify }}</li>
   {% endfor %}
 </ul>
-<div style="clear: both;"></div>

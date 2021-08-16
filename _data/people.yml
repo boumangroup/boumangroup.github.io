@@ -1,24 +1,30 @@
 # People page
 pi:
-- name: "[Katherine L. Bouman](http://users.cms.caltech.edu/~klbouman/index.html)"
+- name: "Katherine L. Bouman"
+  link: "http://users.cms.caltech.edu/~klbouman/index.html"
   title: "Assistant Professor"
   photo: people/klbouman.jpg
 postdoc:
-- name: "[He Sun](http://users.cms.caltech.edu/~hesun/)"
+- name: "He Sun"
+  link: "http://users.cms.caltech.edu/~hesun/"
   title: "Postdoctoral Researcher"
   photo: people/hsun.jpg
-- name: "[Aviad Levis](https://www.aviadlevis.com/about)"
+- name: "Aviad Levis"
+  link: "https://www.aviadlevis.com/about"
   title: "Postdoctoral Researcher"
   photo: people/alevis.jpg
 
 phd:
-- name: "[Berthy Feng](https://berthyfeng.com)"
+- name: "Berthy Feng"
+  link: "https://berthyfeng.com"
   title: "PhD Student"
   photo: people/bfeng.jpg
-- name: "[Angela Gao](https://angelafgao.github.io/)"
+- name: "Angela Gao"
+  link: "https://angelafgao.github.io/"
   title: "PhD Student"
   photo: people/agao.jpg
-- name: "[Zihui (Ray) Wu](https://zihuiwu.github.io/)"
+- name: "Zihui (Ray) Wu"
+  link: "https://zihuiwu.github.io/"
   title: "PhD Student"
   photo: people/zwu.jpg
 

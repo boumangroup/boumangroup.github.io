@@ -49,9 +49,13 @@
 }
 
 .publication__item-text {
-  width: 65%; 
+  width: 90%; 
   float: left; 
   padding-left: 20px; 
+
+  a {
+    color: $caltech-orange;
+  }
 }
 
 .publication__item-teaser {
@@ -63,5 +67,44 @@
   float: left;
 }
 
+.project-highlights__container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 15px;
+}
 
+.project-highlights__item {
+  box-shadow: 0 0 10px rgba(#000, 0.25);
+  border-radius: $border-radius;
+  overflow: hidden;
+  // width: 23%; 
+  // height: 120px;
+  // float: left;
+}
 
+.project-highlights__item-text {
+  width: 100%; 
+  float: center; 
+
+  a {
+    color: $caltech-orange;
+  }
+}
+
+.project-highlights__item-teaser {
+  width: 100%; 
+  height: auto;
+
+  a {
+    color: $caltech-orange;
+  }
+}
+
+.page__content {
+
+  .project-highlights__item-title {
+    margin-top: 0.5em;
+    border-bottom: none;
+    text-align: center;
+  }
+}
