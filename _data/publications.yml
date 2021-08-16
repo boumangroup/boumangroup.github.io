@@ -3,14 +3,14 @@ highlight:  # publications to be shown on home page
   - title: "Deep Probabilistic Imaging"
     link: "http://imaging.cms.caltech.edu/dpi/"
     teaser: publications/smiley.jpg
-  - title: "Deep Probabilistic Imaging"
-    link: "http://imaging.cms.caltech.edu/dpi/"
+  - title: "Stochastic Inference of Black Hole Fluid Dynamics"
+    link: "http://imaging.cms.caltech.edu/stochastic_inference/"
+    teaser: publications/laughing_crying.png
+  - title: "Visual Vibration Tomography"
+    link: "https://arxiv.org/abs/2104.02735"
     teaser: publications/smiley.jpg
-  - title: "Deep Probabilistic Imaging"
-    link: "http://imaging.cms.caltech.edu/dpi/"
-    teaser: publications/smiley.jpg
-  - title: "Deep Probabilistic Imaging"
-    link: "http://imaging.cms.caltech.edu/dpi/"
+  - title: "End-to-End Sequential Sampling and Reconstruction for MRI"
+    link: "https://arxiv.org/abs/2105.06460"
     teaser: publications/smiley.jpg
   
 papers:
