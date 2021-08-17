@@ -4,22 +4,14 @@ permalink: /people/
 header:
   image: group/collage.png
 ---
-<h2 style="margin-top: 0;">PI</h2>
+<h2 style="margin-top: 0;">Our Team</h2>
 <div class="project-highlights__container">
   {% for people in site.data.people.pi %}
     {% include people-single.html %}
   {% endfor %}
-</div>
-
-<h2>Postdoctoral Researchers</h2>
-<div class="project-highlights__container">
   {% for people in site.data.people.postdoc %}
     {% include people-single.html %}
   {% endfor %}
-</div>
-
-<h2>PhD Students</h2>
-<div class="project-highlights__container">
   {% for people in site.data.people.phd %}
     {% include people-single.html %}
   {% endfor %}

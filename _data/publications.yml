@@ -2,16 +2,16 @@
 highlight:  # publications to be shown on home page
   - title: "Deep Probabilistic Imaging"
     link: "http://imaging.cms.caltech.edu/dpi/"
-    teaser: publications/smiley.jpg
+    # teaser: publications/smiley.jpg
   - title: "Stochastic Inference of Black Hole Fluid Dynamics"
     link: "http://imaging.cms.caltech.edu/stochastic_inference/"
-    teaser: publications/laughing_crying.png
+    teaser: publications/alevis_project_teaser.gif
   - title: "Visual Vibration Tomography"
     link: "https://arxiv.org/abs/2104.02735"
-    teaser: publications/smiley.jpg
+    teaser: publications/bfeng_project_teaser.png
   - title: "End-to-End Sequential Sampling and Reconstruction for MRI"
-    link: "https://arxiv.org/abs/2105.06460"
-    teaser: publications/smiley.jpg
+    link: "http://imaging.cms.caltech.edu/seq-mri/"
+    teaser: publications/zwu_project_teaser.png
   
 papers:
   - title: "Inference of Black Hole Fluid-Dynamics from
@@ -31,6 +31,7 @@ Sparse Interferometric Measurements"
     venue: "arXiv preprint 2105.06460, 2021"
     links:
       - "[arXiv pre-print](https://arxiv.org/abs/2105.06460){: .btn .btn--orange}"
+      - "[Project Website & Code](http://imaging.cms.caltech.edu/seq-mri/){: .btn .btn--inverse}"
   - title: "Deep Probabilistic Imaging: Uncertainty Quantification and Multi-modal Solution Characterization for Computational Imaging"
     authors: "H. Sun, K.L. Bouman"
     venue: "arXiv preprint 2010.14462, 2020"
