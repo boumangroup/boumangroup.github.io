@@ -8,6 +8,10 @@ layout: default
   {% include page__hero.html %}
 {% endif %}
 
+{% if page.include_slideshow %}
+  {% include photo-slideshow.html data=site.data.group-photos height="30" unit="%" duration="5" %}
+{% endif %}
+
 {% if page.url != "/" and site.breadcrumbs %}
   {% unless paginator %}
     {% include breadcrumbs.html %}

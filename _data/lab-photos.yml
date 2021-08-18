@@ -1,16 +1,16 @@
 images: 
-  - image: /images/lab_photos/lab_photo_00.jpg
+  # - image: /images/lab_photos/lab_photo_00.jpg
   - image: /images/lab_photos/lab_photo_01.jpg
   - image: /images/lab_photos/lab_photo_02.jpg
-  - image: /images/lab_photos/lab_photo_03.jpg
+  # - image: /images/lab_photos/lab_photo_03.jpg
   - image: /images/lab_photos/lab_photo_04.jpg
-  - image: /images/lab_photos/lab_photo_05.jpg
+  # - image: /images/lab_photos/lab_photo_05.jpg
   - image: /images/lab_photos/lab_photo_06.jpg
-  - image: /images/lab_photos/lab_photo_07.jpg
-  - image: /images/lab_photos/lab_photo_08.jpg
+  # - image: /images/lab_photos/lab_photo_07.jpg
+  # - image: /images/lab_photos/lab_photo_08.jpg
   - image: /images/lab_photos/lab_photo_09.jpg
   - image: /images/lab_photos/lab_photo_10.jpg
   - image: /images/lab_photos/lab_photo_11.jpg
-  - image: /images/lab_photos/lab_photo_12.jpg
+  # - image: /images/lab_photos/lab_photo_12.jpg
   - image: /images/lab_photos/lab_photo_13.jpg
-  - image: /images/lab_photos/lab_photo_14.jpg
+  # - image: /images/lab_photos/lab_photo_14.jpg
