@@ -1,5 +1,5 @@
 /* ==========================================================================
-   PUBLICATION
+   TILED CONTENT (e.g., publications, projects, people)
    ========================================================================== */
 
 .publication {
@@ -67,7 +67,7 @@
   float: left;
 }
 
-.project-highlights__container {
+.tiles__container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 15px;
@@ -77,9 +77,6 @@
   box-shadow: 0 0 10px rgba(#000, 0.25);
   border-radius: $border-radius;
   overflow: hidden;
-  // width: 23%; 
-  // height: 120px;
-  // float: left;
 }
 
 .project-highlights__item-text {
@@ -104,6 +101,38 @@
 .page__content {
 
   .project-highlights__item-title {
+    margin-top: 0.5em;
+    border-bottom: none;
+  }
+}
+
+.people__item {
+  box-shadow: 0 0 10px rgba(#000, 0.25);
+  border-radius: $border-radius;
+  overflow: hidden;
+}
+
+.people__item-text {
+  width: 100%; 
+  float: center; 
+  text-align: center;
+
+  a {
+    color: $caltech-orange;
+  }
+}
+
+.people__item-teaser {
+  width: 100%;
+  height: auto;
+
+  a {
+    color: $caltech-orange;
+  }
+}
+
+.page__content{
+  .people__item-title {
     margin-top: 0.5em;
     border-bottom: none;
   }

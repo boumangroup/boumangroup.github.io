@@ -5,8 +5,8 @@
 {% endif %}
 
 <div style="clear: both;">
-  <div class="project-highlights__item">
-      <div class="project-highlights__item-teaser">
+  <div class="people__item">
+      <div class="people__item-teaser">
           <a href={{ people.link }} target="_blank">
               <img itemprop="image" src=
               {% if photo contains "://" %}
@@ -18,9 +18,9 @@
           </a>
       </div>
   </div>  
-  <div class="project-highlights__item-text">
+  <div class="people__item-text">
       <a href={{ people.link }} target="_blank">
-          <h2 class="project-highlights__item-title">
+          <h2 class="people__item-title">
           {{ people.name | markdownify }}
           </h2>
       </a>
