@@ -86,17 +86,6 @@
 }
 
 .project-highlights__item-text {
-  height: 100%;
-}
-
-.page__content {
-
-  .project-highlights__item-title {
-    margin-top: 0.5em;
-    padding: 0 0.5em 0 0.5em;
-    border-bottom: none;
-    text-align: center; 
-  }
   h3 {
     color: $dark-gray;
   }
@@ -104,6 +93,17 @@
     color: $dark-gray;
   }
 }
+
+.project-highlights__item-title {
+  margin-top: 0.5em;
+  padding: 0 0.5em 0 0.5em;
+  border-bottom: none;
+  text-align: center; 
+}
+
+// .page__content {
+  
+// }
 
 .people__item {
   box-shadow: 0 0 10px rgba(#000, 0.25);
