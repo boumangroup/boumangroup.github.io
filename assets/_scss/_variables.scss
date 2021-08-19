@@ -107,7 +107,7 @@ $masthead-link-color-hover  : $caltech-orange;
    ========================================================================== */
 
 @include breakpoint-set("to ems", true);
-
+$x-small                    : 400px;
 $small                      : 600px;
 $medium                     : 768px;
 $medium-wide                : 900px;

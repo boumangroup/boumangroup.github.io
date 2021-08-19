@@ -5,13 +5,13 @@ highlight:  # publications to be shown on home page
     # teaser: publications/smiley.jpg
   - title: "Stochastic Inference of Black Hole Fluid Dynamics"
     link: "http://imaging.cms.caltech.edu/stochastic_inference/"
-    teaser: publications/alevis_project_teaser.gif
+    teaser: publications/stochastic_teaser.gif
   - title: "Visual Vibration Tomography"
     link: "https://arxiv.org/abs/2104.02735"
-    teaser: publications/bfeng_project_teaser.png
+    teaser: publications/vvt_teaser.png
   - title: "End-to-End Sequential Sampling and Reconstruction for MRI"
     link: "http://imaging.cms.caltech.edu/seq-mri/"
-    teaser: publications/zwu_project_teaser.png
+    teaser: publications/seq_sampling_teaser.png
   
 papers:
   - title: "Inference of Black Hole Fluid-Dynamics from
