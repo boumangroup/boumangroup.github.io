@@ -26,12 +26,32 @@ Sparse Interferometric Measurements"
     venue: "Proceedings of the International Conference on Intelligent Robots and Systems (IROS), 2021"
     links:
       - "[arXiv pre-print](https://arxiv.org/abs/2104.14030){: .btn .btn--orange}"
+  - title: "Event Horizon Telescope observations of the jet launching and collimation in Centaurus A"
+    authors: "M. Janssen, H. Falcke, M. Kadler, E. Ros, M. Wielgus, K. Akiyama, M. Baloković, L. Blackburn, K.L. Bouman, A. Chael, C. Chan, K. Chatterjee, J. Davelaar, P.G. Edwards, C.M. Fromm, J.L. Gómez, C. Goddi, S. Issaoun, M.D. Johnson, J. Kim, Jun Yi Koay, T.P. Krichbaum, J. Liu, E. Liuzzo, S. Markoff, A. Markowitz, D.P. Marrone, Y. Mizuno, C. Müller, C. Ni, D.W. Pesce, V. Ramakrishnan, F. Roelofs, K.L.J. Rygl, I. van Bemmel, and the Event Horizon Telescope Collaboration"
+    venue: "Nature Astronomy, 2021"
+    links:
+      - "[Paper](https://www.nature.com/articles/s41550-021-01417-w){: .btn .btn--orange}"
+  - title: "Event Horizon Telescope observations of the jet launching and collimation in Centaurus A"
+    authors: "M. Janssen, H. Falcke, M. Kadler, E. Ros, M. Wielgus, K. Akiyama, M. Baloković, L. Blackburn, K.L. Bouman, A. Chael, C. Chan, K. Chatterjee, J. Davelaar, P.G. Edwards, C.M. Fromm, J.L. Gómez, C. Goddi, S. Issaoun, M.D. Johnson, J. Kim, Jun Yi Koay, T.P. Krichbaum, J. Liu, E. Liuzzo, S. Markoff, A. Markowitz, D.P. Marrone, Y. Mizuno, C. Müller, C. Ni, D.W. Pesce, V. Ramakrishnan, F. Roelofs, K.L.J. Rygl, I. van Bemmel, and the Event Horizon Telescope Collaboration"
+    venue: "Nature Astronomy, 2021"
+    links:
+      - "[Paper](https://www.nature.com/articles/s41550-021-01417-w){: .btn .btn--orange}"
   - title: "End-to-End Sequential Sampling and Reconstruction for MR Imaging"
     authors: "T. Yin and Z. Wu, H. Sun, A.V. Dalca, Y. Yue, K.L. Bouman"
     venue: "arXiv preprint 2105.06460, 2021"
     links:
       - "[arXiv pre-print](https://arxiv.org/abs/2105.06460){: .btn .btn--orange}"
       - "[Project Website & Code](http://imaging.cms.caltech.edu/seq-mri/){: .btn .btn--inverse}"
+  - title: "Visual Vibration Tomography: Estimating Interior Material Properties from Monocular Video"
+    authors: "B.T. Feng, A.C. Ogren, C. Daraio, K.L. Bouman"
+    venue: "arXiv preprint 2104.02735, 2021"
+    links:
+      - "[arXiv pre-print](https://arxiv.org/abs/2104.02735){: .btn .btn--orange}"
+  - title: "Wind speed inference from environmental flow-structure interactions"
+    authors: "J. Cardona, K.L. Bouman, J. Dabiri"
+    venue: "Flow, 2021"
+    links:
+      - "[Paper](https://www.cambridge.org/core/journals/flow/article/wind-speed-inference-from-environmental-flowstructure-interactions/422CF5FD9C9DD7FE834E7C0FEBC7A2FA){: .btn .btn--orange}"
   - title: "Deep Probabilistic Imaging: Uncertainty Quantification and Multi-modal Solution Characterization for Computational Imaging"
     authors: "H. Sun, K.L. Bouman"
     venue: "arXiv preprint 2010.14462, 2020"
@@ -44,18 +64,6 @@ Sparse Interferometric Measurements"
     links:
       - "[Paper](https://arxiv.org/abs/2003.10424){: .btn .btn--orange}"
       - "[Project Website & Code](http://cosense.cms.caltech.edu/){: .btn .btn--inverse}"
-
-journal:
-  - title: "Event Horizon Telescope observations of the jet launching and collimation in Centaurus A"
-    authors: "M. Janssen, H. Falcke, M. Kadler, E. Ros, M. Wielgus, K. Akiyama, M. Baloković, L. Blackburn, K.L. Bouman, A. Chael, C. Chan, K. Chatterjee, J. Davelaar, P.G. Edwards, C.M. Fromm, J.L. Gómez, C. Goddi, S. Issaoun, M.D. Johnson, J. Kim, Jun Yi Koay, T.P. Krichbaum, J. Liu, E. Liuzzo, S. Markoff, A. Markowitz, D.P. Marrone, Y. Mizuno, C. Müller, C. Ni, D.W. Pesce, V. Ramakrishnan, F. Roelofs, K.L.J. Rygl, I. van Bemmel, and the Event Horizon Telescope Collaboration"
-    venue: "Nature Astronomy, 2021"
-    links:
-      - "[Paper](https://www.nature.com/articles/s41550-021-01417-w){: .btn .btn--orange}"
-  - title: "Wind speed inference from environmental flow-structure interactions"
-    authors: "J. Cardona, K.L. Bouman, J. Dabiri"
-    venue: "Flow, 2021"
-    links:
-      - "[Paper](https://www.cambridge.org/core/journals/flow/article/wind-speed-inference-from-environmental-flowstructure-interactions/422CF5FD9C9DD7FE834E7C0FEBC7A2FA){: .btn .btn--orange}"
   - title: "First M87 Event Horizon Telescope Results. VII. Polarization of the Ring"
     authors: "The Event Horizon Telescope Collaboration, et al."
     venue: "The Astrophysical Journal Letters, 2021"
