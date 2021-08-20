@@ -215,6 +215,8 @@
   .visible-links {
     display: table;
     float: right;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
 
     li {
       display: table-cell;
