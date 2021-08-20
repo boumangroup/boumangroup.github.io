@@ -16,6 +16,11 @@ $ bundle exec jekyll serve
 $ npm run build:css
 ```
 
+### Rebuild JavaScript
+```
+$ npm run build:js
+```
+
 ## Editing Content
 * News: `_data/news.yml`
 * People: `_data/people.yml`

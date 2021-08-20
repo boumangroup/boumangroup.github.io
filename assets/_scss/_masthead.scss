@@ -43,12 +43,14 @@
     padding-right: 2em;
     font-weight: 700;
   }
-  
+}
+
+.masthead__logo {
+  display: inline-block;
   img {
     width: 10vw;
     max-width: 120px;
     height: auto;
-    padding-bottom: 0.75em;
 
     @media (max-width: $xx-small) {
       visibility: hidden;
