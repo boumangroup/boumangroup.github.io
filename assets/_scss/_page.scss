@@ -46,6 +46,14 @@
 .page__lead-container {
   width: 60%;
   margin-left: 50px;
+
+  @media (max-width: $large) {
+    margin-left: 1em;
+  }
+
+  @media (max-width: $small) {
+    margin-left: 0.1em;
+  }
 }
 
 .page__lead {
