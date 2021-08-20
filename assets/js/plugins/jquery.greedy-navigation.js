@@ -13,8 +13,7 @@ var $window = $(window);
 var $vlinksWidth = $vlinks.width();
 
 function updateNav() {
-  console.log($vlinksWidth);
-  if($window.width() > $vlinksWidth + 30) {
+  if($window.width() > $vlinksWidth + 150) {
 
     if($vlinks.children().length == 0) {
       // Move hidden links to the visible list.

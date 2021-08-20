@@ -48,9 +48,12 @@
 .masthead__logo {
   display: inline-block;
   img {
-    width: 10vw;
-    max-width: 120px;
+    width: 120px;
     height: auto;
+
+    @media (max-width: $medium) {
+      width: 90px;
+    }
 
     @media (max-width: $xx-small) {
       visibility: hidden;
