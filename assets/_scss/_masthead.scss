@@ -6,17 +6,13 @@
   z-index: 20;
 
   &__inner-wrap {
-    @include container;
+    // @include container;
     @include clearfix;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
     padding-left: 1em;
     padding-right: 1em;
     font-family: $sans-serif-narrow;
-
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
 
     nav {
       z-index: 10;
@@ -29,7 +25,6 @@
 }
 
 .masthead__menu {
-
   ul {
     margin: 0;
     padding: 0;
@@ -43,7 +38,6 @@
   list-style-type: none;
   white-space: nowrap;
   font-family: 'Roboto', sans-serif;
-  // font-weight: 700;
 
   &--lg {
     padding-right: 2em;
@@ -54,5 +48,9 @@
     width: 10vw;
     max-width: 120px;
     height: auto;
+
+    @media (max-width: $xx-small) {
+      visibility: hidden;
+    }
   }
 }

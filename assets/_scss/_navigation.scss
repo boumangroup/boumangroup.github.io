@@ -174,6 +174,19 @@
   position: relative;
   min-width: 250px;
   background: $background-color;
+  padding-left: 50px;
+  padding-right: 50px;
+
+  @media (max-width: $large) {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+
+  @media (max-width: $small) {
+    padding-left: 0.1em;
+    padding-right: 0.1em;
+  }
+
 
   a {
     display: block;
