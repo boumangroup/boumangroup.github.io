@@ -7,7 +7,7 @@ highlight:  # publications to be shown on home page
     link: "http://imaging.cms.caltech.edu/stochastic_inference/"
     teaser: publications/stochastic_teaser.gif
   - title: "Visual Vibration Tomography"
-    link: "https://arxiv.org/abs/2104.02735"
+    link: "http://imaging.cms.caltech.edu/vvt/"
     teaser: publications/vvt_teaser.png
   - title: "End-to-End Sequential Sampling and Reconstruction for MRI"
     link: "http://imaging.cms.caltech.edu/seq-mri/"
