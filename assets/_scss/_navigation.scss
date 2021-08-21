@@ -223,8 +223,6 @@
       vertical-align: middle;
 
       &:first-child {
-        font-weight: bold;
-
         a {
           margin-left: 0;
         }
@@ -238,7 +236,8 @@
     }
 
     a {
-
+      font-weight: 100;
+      
       &:before {
         content: "";
         position: absolute;
@@ -275,7 +274,6 @@
 
       &:hover {
         color: $masthead-link-color-hover;
-        // background: mix(#fff, $primary-color, 75%);
       }
     }
 
