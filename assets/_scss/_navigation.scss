@@ -214,9 +214,10 @@
 
   .visible-links {
     display: table;
-    float: right;
-    padding-top: 1vh;
-    padding-bottom: 1vh;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 2em;
 
     li {
       display: table-cell;

@@ -4,6 +4,8 @@ permalink: /people/
 include_slideshow: true
 ---
 
+{% include base_path %}
+
 <div class="tiles__container">
   {% for people in site.data.people.pi %}
     {% include people-single.html %}
