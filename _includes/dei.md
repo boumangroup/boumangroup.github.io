@@ -1,0 +1,1 @@
+The Computational Cameras Group at Caltech is dedicated to the principles of diversity, equity, and inclusion. We are a community that values and celebrates differences among our members and we strive to create an equitable and inclusive environment for people of all backgrounds.

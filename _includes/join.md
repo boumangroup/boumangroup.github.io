@@ -1,0 +1,3 @@
+**Prospective Graduate Students**: Please apply to a [CMS Caltech graduate program](https://cms.caltech.edu/academics/grad). Due to the volume of applicants, please list Katie as a preferred adviser.
+
+**Postdoc Candidates**: Please email Katie (klbouman@caltech.edu) your resume and three most significant publications. Strong candidates have published in either signal processing, machine learning, computer vision, or optics.

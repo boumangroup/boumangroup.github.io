@@ -30,6 +30,7 @@ $ npm run build:js
 * "Visit" page text: `_includes/visit.md`
 * Lab photo slideshow: Add image(s) to `images/lab_photos` and add their filename(s) to `_data/lab-photos.yml`
 * People photo slideshow: Add image(s) to `image/group` and add their filename(s) to `_data/group-photos.yml`. Currently, the Liquid snippet for the slideshow header is hard-coded into `_layouts/single.html` and activated by setting `include_show: true` in the YAML front matter of `_pages/people.html`.
+* DEI statmement: `_includes/dei.md`
 
 **Note**: Most fields will Markdown-ified.
 

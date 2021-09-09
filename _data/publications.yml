@@ -1,8 +1,8 @@
 # Publications
 highlight:  # publications to be shown on home page
-  - title: "Deep Probabilistic Imaging"
+  - title: "Deep Probabilistic Imaging for Uncertainty Quantification"
     link: "http://imaging.cms.caltech.edu/dpi/"
-    # teaser: publications/smiley.jpg
+    teaser: publications/dpi_teaser.png
   - title: "Stochastic Inference of Black Hole Fluid Dynamics"
     link: "http://imaging.cms.caltech.edu/stochastic_inference/"
     teaser: publications/stochastic_teaser.gif

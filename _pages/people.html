@@ -18,9 +18,17 @@ include_slideshow: true
   {% endfor %}
 </div>
 
-<h2>Undergraduate Students</h2>
+<!-- <h2>Undergraduate Students</h2>
 <ul>
   {% for people in site.data.people.undergrad %}
     <li>{{ people.name | markdownify }}</li>
   {% endfor %}
-</ul>
+</ul> -->
+
+<h2>Want to get involved?</h2>
+<div>
+  <p>
+    {% capture about %}{% include join.md %}{% endcapture %}
+    {{ about | markdownify }}
+  </p>
+</div>
