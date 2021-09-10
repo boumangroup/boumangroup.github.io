@@ -108,6 +108,7 @@ google_maps_javascript_api_key: "AIzaSyCM2wB52FFn8Nhu3b4pR2E_XoYLzRtcWjs"
 
 # Google Analytics
 analytics:
-  provider: "google-gtag"
+  provider: "google-universal"
   google:
     tracking_id: "UA-207270863-1"
+    anonymize_ip: true
