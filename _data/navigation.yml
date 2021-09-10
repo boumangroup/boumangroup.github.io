@@ -1,5 +1,7 @@
 # Navigation bar links
 main:
+  - title: "Home"
+    url: /
   - title: "Publications"
     url: /publications/
   - title: "People"

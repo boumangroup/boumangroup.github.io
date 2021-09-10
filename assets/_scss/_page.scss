@@ -59,11 +59,12 @@
 .page__lead {
   width: 100%;
   font-family: $hero-font-family;
-  font-weight: 900;
+  font-weight: 700;
   color: $darker-gray;
+  margin-bottom: 0;
 
   @media (max-width: $large) {
-    font-size: $type-size-4;
+    font-size: $type-size-3;
   }
 
   @media (min-width: $large) {
