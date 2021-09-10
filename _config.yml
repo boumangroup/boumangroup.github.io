@@ -107,4 +107,7 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 google_maps_javascript_api_key: "AIzaSyCM2wB52FFn8Nhu3b4pR2E_XoYLzRtcWjs"
 
 # Google Analytics
-google_analytics: UA-207270863-1
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-207270863-1"
