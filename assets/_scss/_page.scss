@@ -59,15 +59,15 @@
 .page__lead {
   width: 100%;
   font-family: $hero-font-family;
-  font-weight: 700;
-  color: $darker-gray;
+  font-weight: 300;
+  color: $gray;
   margin-bottom: 0;
 
-  @media (max-width: $large) {
-    font-size: $type-size-3;
+  @media (max-width: 1200px) {
+    font-size: $type-size-4;
   }
 
-  @media (min-width: $large) {
+  @media (min-width: 1200px) {
     font-size: $type-size-3;
   }
 
@@ -78,6 +78,7 @@
 
 .page__lead-emphasize {
   color: $caltech-orange;
+  font-weight: 500;
 }
 
 .page__content {
