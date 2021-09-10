@@ -57,11 +57,11 @@
 }
 
 .page__lead {
+  position: absolute;
   width: 100%;
   font-family: $hero-font-family;
   font-weight: 300;
-  color: $gray;
-  margin-bottom: 0;
+  bottom: 5vh;
 
   @media (max-width: 1200px) {
     font-size: $type-size-4;
@@ -405,6 +405,6 @@
 }
 
 .new {
-  font-weight: 900;
+  font-weight: 700;
   color: $info-color;
 }
