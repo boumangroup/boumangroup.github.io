@@ -13,6 +13,10 @@ postdoc:
   link: "https://www.aviadlevis.info/"
   title: "Postdoctoral Researcher"
   photo: people/alevis.jpg
+- name: "Oscar Leong"
+  link: "https://sites.google.com/view/oscarleong/home"
+  title: "Von Karman Instructor"
+  photo: people/oleong.jpg
 
 phd:
 - name: "Berthy Feng"
