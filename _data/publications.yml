@@ -55,7 +55,7 @@ Sparse Interferometric Measurements"
       - "[Paper](https://www.cambridge.org/core/journals/flow/article/wind-speed-inference-from-environmental-flowstructure-interactions/422CF5FD9C9DD7FE834E7C0FEBC7A2FA){: .btn .btn--orange}"
   - title: "Deep Probabilistic Imaging: Uncertainty Quantification and Multi-modal Solution Characterization for Computational Imaging"
     authors: "H. Sun, K.L. Bouman"
-    venue: "arXiv preprint 2010.14462, 2020"
+    venue: "AAAI, 2020"
     links:
       - "[arXiv pre-print](https://arxiv.org/abs/2010.14462){: .btn .btn--orange}"
       - "[Project Website & Code](http://imaging.cms.caltech.edu/dpi/){: .btn .btn--inverse}"
