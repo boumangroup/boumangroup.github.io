@@ -6,11 +6,19 @@ permalink: /impacts/
 {% include base_path %}
 
 <div class="broader-impacts-container">
-    <div>
-      <center><img src="/images/outreach/outreach.png" width="2000px" height="1200px"></center>
-    </div>
     <div id="broader-impacts-text">
-      {% capture about %}{% include broader_impacts.md %}{% endcapture %}
-      {{ about | markdownify }}
+      {% capture text1 %}{% include broader_impacts_1.md %}{% endcapture %}
+      {{ text1 | markdownify }}
+      
+      <figure>
+        <img src='/images/outreach/outreach.png' alt='Outreach Activities' width="2000px" height="1200px" />
+        <figcaption>Pictures from outreach events.  (Top Left) TED
+          talk on computational imaging for imaging a black hole that  has  received  over  5.6  million  views.   (Bottom  Left)  Prof. Bouman testifying to congress on interdisciplinary research and the role of
+          young researchers in Big Science.  (Top Right & Bottom Right) Speaking  in  different  K-12  classrooms.   (Bottom  Center) Speaking in an NSF outreach video with Dr. Lonsdale
+          </figcaption>
+      </figure> 
+
+      {% capture text2 %}{% include broader_impacts_2.md %}{% endcapture %}
+      {{ text2 | markdownify }}
     </div>
 </div>
