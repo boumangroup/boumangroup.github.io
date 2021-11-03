@@ -14,6 +14,11 @@ highlight:  # publications to be shown on home page
     teaser: publications/seq_sampling_teaser.png
   
 papers:
+  - title: "DeepGEM: Generalized Expectation-Maximization for Blind Inversion"
+    authors: "A.F.  Gao, J.C. Castellanos, Y Yue, Z.E. Ross, K.L. Bouman"
+    venue: "35th Conference on Neural Information Processing Systems (NeurIPS), 2021"
+    links:
+      - "[Project Website & Code](http://imaging.cms.caltech.edu/deepgem/){: .btn .btn--inverse}"
   - title: "End-to-End Sequential Sampling and Reconstruction for MR Imaging"
     authors: "Tianwei Yin\\*, Zihui Wu\\*, He Sun, Adrian V. Dalca, Yisong Yue, and Katherine L. Bouman (\\* equal contribution)"
     venue: "Machine Learning for Health (ML4H), 2021 (**Awarded Best Paper**)"

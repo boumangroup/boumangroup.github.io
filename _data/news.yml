@@ -5,7 +5,7 @@ main:
   - date: "10/21"
     info: "*End-to-End Sequential Sampling and Reconstruction for MR Imaging* awarded Best Paper at ML4H Conference 2021. Check out the [website](http://imaging.cms.caltech.edu/seq-mri/) containing the paper, code, and a video explanation."
   - date: "09/21"
-    info: "*DeepGEM: Generalized Expectation-Maximization for Blind Inversion* accepted for publication at NeurIPS 2021."
+    info: "*DeepGEM: Generalized Expectation-Maximization for Blind Inversion* accepted for publication at NeurIPS 2021. Check out the [website](http://imaging.cms.caltech.edu/deepgem/) containing the paper, code, and a video explanation."
   - date: "07/21"
     info: "*Inference of Black Hole Fluid-Dynamics from Sparse Interferometric Measurements* accepted for publication at ICCV 2021. Check out the [website](http://imaging.cms.caltech.edu/stochastic_inference/) containing the paper, code, and a video explanation."
   - date: "07/21"
