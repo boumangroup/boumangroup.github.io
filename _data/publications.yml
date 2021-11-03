@@ -14,6 +14,12 @@ highlight:  # publications to be shown on home page
     teaser: publications/seq_sampling_teaser.png
   
 papers:
+  - title: "End-to-End Sequential Sampling and Reconstruction for MR Imaging"
+    authors: "Tianwei Yin\\*, Zihui Wu\\*, He Sun, Adrian V. Dalca, Yisong Yue, and Katherine L. Bouman (\\* equal contribution)"
+    venue: "Machine Learning for Health (ML4H), 2021 (**Awarded Best Paper**)"
+    links:
+      - "[arXiv pre-print](https://arxiv.org/abs/2105.06460){: .btn .btn--orange}"
+      - "[Project Website & Code](http://imaging.cms.caltech.edu/seq-mri/){: .btn .btn--inverse}"
   - title: "Inference of Black Hole Fluid-Dynamics from
 Sparse Interferometric Measurements"
     authors: "A. Levis, D. Lee, J.A. Tropp, C.F. Gammie, K.L. Bouman"
@@ -36,12 +42,6 @@ Sparse Interferometric Measurements"
     venue: "Nature Astronomy, 2021"
     links:
       - "[Paper](https://www.nature.com/articles/s41550-021-01417-w){: .btn .btn--orange}"
-  - title: "End-to-End Sequential Sampling and Reconstruction for MR Imaging"
-    authors: "T. Yin and Z. Wu, H. Sun, A.V. Dalca, Y. Yue, K.L. Bouman"
-    venue: "arXiv preprint 2105.06460, 2021"
-    links:
-      - "[arXiv pre-print](https://arxiv.org/abs/2105.06460){: .btn .btn--orange}"
-      - "[Project Website & Code](http://imaging.cms.caltech.edu/seq-mri/){: .btn .btn--inverse}"
   - title: "Visual Vibration Tomography: Estimating Interior Material Properties from Monocular Video"
     authors: "B.T. Feng, A.C. Ogren, C. Daraio, K.L. Bouman"
     venue: "arXiv preprint 2104.02735, 2021"
