@@ -14,7 +14,7 @@ The computational cameras group mentors undergraduate students in summer researc
 
 Prof. Bouman also teaches a Machine Learning Projects course at Caltech. The goal of the course is to connect undergraduates with mentors in both CS/EE and a particular domain in order to work on a 10-week project in small groups. These projects are meant to engage and inspire undergraduate students to pursue interdisciplinary research as well as give them personal connections to faculty.
 
-The members of the computational camera’s group also participate on mentoring panels, such as ones focused on helping undergraduates prepare and apply for graduate school. 
+The members of the computational camera’s group also participate on mentoring panels, such as the ones focused on helping undergraduates prepare and apply for graduate school. 
 
 
 ### Public Outreach
