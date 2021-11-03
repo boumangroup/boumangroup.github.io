@@ -8,3 +8,5 @@ main:
     url: /people/
   - title: "Visit"
     url: /visit/
+  - title: "Broader Impacts"
+    url: /impacts/

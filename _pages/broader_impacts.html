@@ -1,0 +1,13 @@
+---
+layout: single
+permalink: /impacts/
+---
+
+{% include base_path %}
+
+<div class="broader-impacts-container">
+    <div id="broader-impacts-text">
+      {% capture about %}{% include broader_impacts.md %}{% endcapture %}
+      {{ about | markdownify }}
+    </div>
+</div>
