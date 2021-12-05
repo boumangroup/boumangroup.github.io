@@ -31,6 +31,10 @@ phd:
   link: "https://zihuiwu.github.io/"
   title: "PhD Student"
   photo: people/zwu.jpg
+- name: "Brandon Zhao"
+  link: "https://brandonyzhao.github.io/"
+  title: "PhD Student"
+  photo: people/bzhao.jpg
 
 undergrad:
 - name: "Johanna Karras '21"
