@@ -7,6 +7,10 @@ header:
 
 {% include base_path %}
 
+<link type="text/css" rel="stylesheet" href="assets/css/lightslider.min.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="assets/js/plugins/lightslider.min.js"></script>
+
 <!-- ABOUT -->
 <!-- <h2 class="home-header" style="margin-top: 0;">About</h2>
 <div id="about">
@@ -18,12 +22,15 @@ header:
 
 <!-- HIGHLIGHTED PROJECTS -->
 <h2 class="home-header" style="margin-top: -1.8em;">Project Highlights</h2>
-<div class="tiles__container">
-  {% for publication in site.data.publications.highlight %}
-    {% include project-highlight-single.html %}
-  {% endfor %}
+<div id="highlights">
+  <ul id="light-slider">
+    {% for publication in site.data.publications.highlight %}
+      <li>{% include project-highlight-single.html %}</li>
+    {% endfor %}
+  </ul>
 </div>
 
+  
 <!-- NEWS -->
 <h2 class="home-header">News</h2>
 <div id="news">
