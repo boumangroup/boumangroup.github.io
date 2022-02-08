@@ -17,6 +17,11 @@ highlight:  # publications to be shown on home page
     teaser: publications/dpi_teaser.png
   
 papers:
+  - title: "Self-Supervised Online Learning for Safety-Critical Control using Stereo Vision"
+    authors: "R.K. Cosner, I.D. Jimenez Rodriguez, T.G. Molnar, W. Ubellacker, Y. Yue, A.D. Ames, K.L. Bouman"
+    venue: "39th International Conference on Robotics and Automation (ICRA), 2022"
+    links:
+      - "[Project Website & Code](http://rkcosner.com/research/OnlineStereo/){: .btn .btn--inverse}"
   - title: "DeepGEM: Generalized Expectation-Maximization for Blind Inversion"
     authors: "A.F. Gao, J.C. Castellanos, Y Yue, Z.E. Ross, K.L. Bouman"
     venue: "35th Conference on Neural Information Processing Systems (NeurIPS), 2021"
