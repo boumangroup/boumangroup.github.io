@@ -1,5 +1,7 @@
 # News on the home page. Strings will be Markdown-ified.
 main:
+  - date: "03/22"
+    info: "*Gravitationally Lensed Black Hole Emission Tomography* and *Visual Vibration Tomography* are accepted to CVPR 2022."
   - date: "10/21"
     info: "Prof. Bouman awarded the [Royal Photographic Society Progress Medal](https://rps.org/about/awards/history-and-recipients/progress-medal)."
   - date: "10/21"
@@ -39,7 +41,7 @@ all:
   - date: "06/20"
     info: "Organizing CVPR 2020's Computational Cameras and Displays Workshop (CCD). [[Website]](http://ccd2020.cms.caltech.edu/)"
   - date: "04/20"
-    info: "*Learning a Probabilistic Strategy for Computational Imaging Sensor Selection** published at ICCP*. [[Project Website]](http://cosense.cms.caltech.edu/)"
+    info: "*Learning a Probabilistic Strategy for Computational Imaging Sensor Selection* published at ICCP. [[Project Website]](http://cosense.cms.caltech.edu/)"
   - date: "04/20"
     info: "*Event Horizon Telescope imaging of the archetypal blazar 3C 279 at an extreme 20 microarcsecond resolution* published in Astronomy & Astrophysics. [[Paper]](https://www.aanda.org/articles/aa/pdf/forth/aa37493-20.pdf)"
   - date: "09/20"
