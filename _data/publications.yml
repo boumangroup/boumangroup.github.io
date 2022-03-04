@@ -15,6 +15,12 @@ highlight:  # publications to be shown on home page
   - title: "Deep Probabilistic Imaging"
     link: "http://imaging.cms.caltech.edu/dpi/"
     teaser: publications/dpi_teaser.png
+  - title: "Online Learning for Safety-Critical Control"
+    link: "http://rkcosner.com/research/OnlineStereo/"
+    teaser: publications/safety.png
+  - title: "Deep Radio Imaging"
+    link: "https://arxiv.org/abs/2111.03249"
+    teaser: publications/polish.png
   
 papers:
   - title: "Self-Supervised Online Learning for Safety-Critical Control using Stereo Vision"
