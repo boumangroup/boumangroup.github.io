@@ -1,7 +1,9 @@
 # News on the home page. Strings will be Markdown-ified.
 main:
   - date: "03/22"
-    info: "*Gravitationally Lensed Black Hole Emission Tomography* and *Visual Vibration Tomography* are accepted to CVPR 2022."
+    info: "*Gravitationally Lensed Black Hole Emission Tomography* accepted to CVPR 2022. Check out the [website](http://imaging.cms.caltech.edu/bhnerf/) containing the paper, code, and a video explanation."
+  - date: "03/22"
+    info: "*Visual Vibration Tomography* accepted to CVPR 22 as an Oral. Check out the [website](http://imaging.cms.caltech.edu/vvt/) containing the paper and a video explanation."
   - date: "10/21"
     info: "Prof. Bouman awarded the [Royal Photographic Society Progress Medal](https://rps.org/about/awards/history-and-recipients/progress-medal)."
   - date: "10/21"
@@ -16,6 +18,10 @@ main:
     info: "*Event Horizon Telescope observations of the jet launching and collimation in Centaurus A* accepted for publication in Nature Astronomy. [[Paper]](https://www.nature.com/articles/s41550-021-01417-w)"
 
 all:
+  - date: "03/22"
+    info: "*Visual Vibration Tomography* accepted to CVPR 22 as an Oral. Check out the [website](http://imaging.cms.caltech.edu/vvt/) containing the paper and a video explanation."
+  - date: "03/22"
+    info: "*Gravitationally Lensed Black Hole Emission Tomography* accepted to CVPR 2022. Check out the [website](http://imaging.cms.caltech.edu/bhnerf/) containing the paper, code, and a video explanation."
   - date: "10/21"
     info: "Prof. Bouman awarded the [Royal Photographic Society Progress Model](https://rps.org/about/awards/history-and-recipients/progress-medal)"
   - date: "10/21"

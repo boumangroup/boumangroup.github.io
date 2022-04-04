@@ -1,14 +1,17 @@
 # Publications
 highlight:  # publications to be shown on home page
+  - title: "Gravitationally Lensed Black Hole Emission Tomography"
+    link: "http://imaging.cms.caltech.edu/bhnerf/"
+    teaser: "publications/bhnerf_teaser.gif"
   - title: "DeepGEM: Generalized Expectation-Maximization for Blind Inversion"
     link: "http://imaging.cms.caltech.edu/deepgem/"
     teaser: publications/deepgem_teaser.png
-  - title: "Stochastic Inference of Black Hole Fluid Dynamics"
-    link: "http://imaging.cms.caltech.edu/stochastic_inference/"
-    teaser: publications/stochastic_teaser.gif
   - title: "Visual Vibration Tomography"
     link: "http://imaging.cms.caltech.edu/vvt/"
     teaser: publications/vvt_teaser.png
+  - title: "Stochastic Inference of Black Hole Fluid Dynamics"
+    link: "http://imaging.cms.caltech.edu/stochastic_inference/"
+    teaser: publications/stochastic_teaser.gif
   - title: "End-to-End Sequential Sampling and Reconstruction for MRI"
     link: "http://imaging.cms.caltech.edu/seq-mri/"
     teaser: publications/seq_sampling_teaser.gif
@@ -23,6 +26,18 @@ highlight:  # publications to be shown on home page
     teaser: publications/polish.png
   
 papers:
+  - title: "Visual Vibration Tomography: Estimating Interior Material Properties from Monocular Video"
+    authors: "B.T. Feng, A.C. Ogren, C. Daraio, K.L. Bouman"
+    venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022 (Oral)"
+    links:
+      - "[arXiv pre-print](https://arxiv.org/abs/2104.02735){: .btn .btn--orange}"
+      - "[Project Website](http://imaging.cms.caltech.edu/vvt/){: .btn .btn--inverse}"
+  - title: "Gravitationally Lensed Black Hole Emission Tomography"  
+    authors: "A. Levis, P.P. Srinivasan, A.A. Chael, R. Ng, K.L. Bouman"
+    venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022"
+    links:
+      - "[arXiv pre-print](https://arxiv.org/abs/2104.02735){: .btn .btn--orange}"
+      - "[Project Website](http://imaging.cms.caltech.edu/bhnerf/){: .btn .btn--inverse}"
   - title: "Self-Supervised Online Learning for Safety-Critical Control using Stereo Vision"
     authors: "R.K. Cosner, I.D. Jimenez Rodriguez, T.G. Molnar, W. Ubellacker, Y. Yue, A.D. Ames, K.L. Bouman"
     venue: "39th International Conference on Robotics and Automation (ICRA), 2022"
@@ -61,12 +76,6 @@ Sparse Interferometric Measurements"
     venue: "Nature Astronomy, 2021"
     links:
       - "[Paper](https://www.nature.com/articles/s41550-021-01417-w){: .btn .btn--orange}"
-  - title: "Visual Vibration Tomography: Estimating Interior Material Properties from Monocular Video"
-    authors: "B.T. Feng, A.C. Ogren, C. Daraio, K.L. Bouman"
-    venue: "arXiv preprint 2104.02735, 2021"
-    links:
-      - "[arXiv pre-print](https://arxiv.org/abs/2104.02735){: .btn .btn--orange}"
-      - "[Project Website](http://imaging.cms.caltech.edu/vvt/){: .btn .btn--inverse}"
   - title: "Wind speed inference from environmental flow-structure interactions"
     authors: "J. Cardona, K.L. Bouman, J. Dabiri"
     venue: "Flow, 2021"
