@@ -3,7 +3,7 @@ main:
   - date: "03/22"
     info: "*Gravitationally Lensed Black Hole Emission Tomography* accepted to CVPR 2022. Check out the [website](http://imaging.cms.caltech.edu/bhnerf/) containing the paper, code, and a video explanation."
   - date: "03/22"
-    info: "*Visual Vibration Tomography* accepted to CVPR 22 as an Oral. Check out the [website](http://imaging.cms.caltech.edu/vvt/) containing the paper and a video explanation."
+    info: "*Visual Vibration Tomography* accepted to CVPR 2022 as an Oral. Check out the [website](http://imaging.cms.caltech.edu/vvt/) containing the paper and a video explanation."
   - date: "10/21"
     info: "Prof. Bouman awarded the [Royal Photographic Society Progress Medal](https://rps.org/about/awards/history-and-recipients/progress-medal)."
   - date: "10/21"
@@ -19,9 +19,9 @@ main:
 
 all:
   - date: "03/22"
-    info: "*Visual Vibration Tomography* accepted to CVPR 22 as an Oral. Check out the [website](http://imaging.cms.caltech.edu/vvt/) containing the paper and a video explanation."
-  - date: "03/22"
     info: "*Gravitationally Lensed Black Hole Emission Tomography* accepted to CVPR 2022. Check out the [website](http://imaging.cms.caltech.edu/bhnerf/) containing the paper, code, and a video explanation."
+  - date: "03/22"
+    info: "*Visual Vibration Tomography* accepted to CVPR 2022 as an Oral. Check out the [website](http://imaging.cms.caltech.edu/vvt/) containing the paper and a video explanation."
   - date: "10/21"
     info: "Prof. Bouman awarded the [Royal Photographic Society Progress Model](https://rps.org/about/awards/history-and-recipients/progress-medal)"
   - date: "10/21"
