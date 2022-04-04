@@ -28,7 +28,7 @@ highlight:  # publications to be shown on home page
 papers:
   - title: "Visual Vibration Tomography: Estimating Interior Material Properties from Monocular Video"
     authors: "B.T. Feng, A.C. Ogren, C. Daraio, K.L. Bouman"
-    venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022 (Oral)"
+    venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022 (**Oral**)"
     links:
       - "[arXiv pre-print](https://arxiv.org/abs/2104.02735){: .btn .btn--orange}"
       - "[Project Website](http://imaging.cms.caltech.edu/vvt/){: .btn .btn--inverse}"
@@ -50,7 +50,7 @@ papers:
       - "[Project Website & Code](http://imaging.cms.caltech.edu/deepgem/){: .btn .btn--inverse}"
   - title: "End-to-End Sequential Sampling and Reconstruction for MR Imaging"
     authors: "T. Yin\\*, Z. Wu\\*, H. Sun, A.V. Dalca, Y. Yue, and K.L. Bouman (\\* equal contribution)"
-    venue: "Machine Learning for Health (ML4H), 2021 (**Awarded Best Paper**)"
+    venue: "Machine Learning for Health (ML4H), 2021 (**Best Paper**)"
     links:
       - "[arXiv pre-print](https://arxiv.org/abs/2105.06460){: .btn .btn--orange}"
       - "[Project Website & Code](http://imaging.cms.caltech.edu/seq-mri/){: .btn .btn--inverse}"
