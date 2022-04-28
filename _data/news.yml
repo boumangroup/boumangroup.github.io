@@ -1,5 +1,9 @@
 # News on the home page. Strings will be Markdown-ified.
 main:
+  - date: "08/22"
+    info: "Caltech is hosing the International Conference on Computational Photography (ICCP) this year on August 1-3! Check out the following link for information on how to attend and submit your work: [https://iccp2022.iccp-conference.org/](https://iccp2022.iccp-conference.org/)."
+  - date: "04/22"
+    info: "*Deep Radio Interferometric Imaging with POLISH: DSA-2000* and weak lensing accepted for publication in Monthly Notices of the Royal Astronomical Society Main Journal. Check out the arXiv [preprint](https://arxiv.org/abs/2111.03249)."
   - date: "03/22"
     info: "*Gravitationally Lensed Black Hole Emission Tomography* accepted to CVPR 2022. Check out the [website](http://imaging.cms.caltech.edu/bhnerf/) containing the paper, code, and a video explanation."
   - date: "03/22"
@@ -18,6 +22,10 @@ main:
     info: "*Event Horizon Telescope observations of the jet launching and collimation in Centaurus A* accepted for publication in Nature Astronomy. [[Paper]](https://www.nature.com/articles/s41550-021-01417-w)"
 
 all:
+  - date: "08/22"
+    info: "Caltech is hosing the International Conference on Computational Photography (ICCP) this year on August 1-3! Check out the following link for information on how to attend and submit your work: [https://iccp2022.iccp-conference.org/](https://iccp2022.iccp-conference.org/)."
+  - date: "04/22"
+    info: "*Deep Radio Interferometric Imaging with POLISH: DSA-2000* and weak lensing accepted for publication in Monthly Notices of the Royal Astronomical Society Main Journal. Check out the arXiv [preprint](https://arxiv.org/abs/2111.03249)."
   - date: "03/22"
     info: "*Gravitationally Lensed Black Hole Emission Tomography* accepted to CVPR 2022. Check out the [website](http://imaging.cms.caltech.edu/bhnerf/) containing the paper, code, and a video explanation."
   - date: "03/22"
