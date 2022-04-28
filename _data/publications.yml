@@ -26,6 +26,11 @@ highlight:  # publications to be shown on home page
     teaser: publications/polish.png
   
 papers:
+  - title: "Deep Radio Interferometric Imaging with POLISH: DSA-2000 and weak lensing"
+    authors: "L. Connor, K.L. Bouman, V. Ravi, G. Hallinan"
+    venue: "Monthly Notices of the Royal Astronomical Society Main Journal, 2022"
+    links: 
+      - "[arXiv pre-print](https://arxiv.org/abs/2111.03249){: .btn .btn--orange}"
   - title: "Visual Vibration Tomography: Estimating Interior Material Properties from Monocular Video"
     authors: "B.T. Feng, A.C. Ogren, C. Daraio, K.L. Bouman"
     venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022 (**Oral**)"
