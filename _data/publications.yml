@@ -26,6 +26,11 @@ highlight:  # publications to be shown on home page
     teaser: publications/polish.png
   
 papers:
+  - title: "alpha-Deep Probabilistic Inference (alpha-DPI): efficient uncertainty quantification from exoplanet astrometry to black hole feature extraction"
+    authors: "H. Sun, K.L. Bouman, P. Tiede, J.J. Wang, S. Blunt, D. Mawet"
+    venue: "The Astrophysical Journal (ApJ), 2022"
+    links: 
+      - "[arXiv pre-print](https://arxiv.org/abs/2201.08506){: .btn .btn--orange}"
   - title: "Deep Radio Interferometric Imaging with POLISH: DSA-2000 and weak lensing"
     authors: "L. Connor, K.L. Bouman, V. Ravi, G. Hallinan"
     venue: "Monthly Notices of the Royal Astronomical Society Main Journal, 2022"

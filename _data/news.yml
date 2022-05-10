@@ -1,7 +1,11 @@
 # News on the home page. Strings will be Markdown-ified.
 main:
+  - date: "05/22"
+    info: "Tune in at 6 am Pacific / 9 am Eastern to hear about some [exciting new results](https://www.nsf.gov/news/news_summ.jsp?cntn_id=305028&org=NSF&fbclid=IwAR3SzzHsfljYN9MF8zgJ02_RGIhjD-VmGaAvCkonPCPcu-oD35hku_ZgFng) from the EHT!" 
   - date: "08/22"
     info: "Caltech is hosing the International Conference on Computational Photography (ICCP) this year on August 1-3! Check out the following link for information on how to attend and submit your work: [https://iccp2022.iccp-conference.org/](https://iccp2022.iccp-conference.org/)."
+  - date: "05/22"
+    info: "alpha-Deep Probabilistic Inference (alpha-DPI): efficient uncertainty quantification from exoplanet astrometry to black hole feature extraction accepted for publication in ApJ. Check out the arXiv [preprint](https://arxiv.org/abs/2201.08506)."
   - date: "04/22"
     info: "*Deep Radio Interferometric Imaging with POLISH: DSA-2000* and weak lensing accepted for publication in Monthly Notices of the Royal Astronomical Society Main Journal. Check out the arXiv [preprint](https://arxiv.org/abs/2111.03249)."
   - date: "03/22"
@@ -22,8 +26,12 @@ main:
     info: "*Event Horizon Telescope observations of the jet launching and collimation in Centaurus A* accepted for publication in Nature Astronomy. [[Paper]](https://www.nature.com/articles/s41550-021-01417-w)"
 
 all:
+  - date: "05/22"
+    info: "Tune in at 6 am Pacific / 9 am Eastern to hear about some [exciting new results](https://www.nsf.gov/news/news_summ.jsp?cntn_id=305028&org=NSF&fbclid=IwAR3SzzHsfljYN9MF8zgJ02_RGIhjD-VmGaAvCkonPCPcu-oD35hku_ZgFng) from the EHT!" 
   - date: "08/22"
     info: "Caltech is hosing the International Conference on Computational Photography (ICCP) this year on August 1-3! Check out the following link for information on how to attend and submit your work: [https://iccp2022.iccp-conference.org/](https://iccp2022.iccp-conference.org/)."
+  - date: "05/22"
+    info: "alpha-Deep Probabilistic Inference (alpha-DPI): efficient uncertainty quantification from exoplanet astrometry to black hole feature extraction accepted for publication in ApJ. Check out the arXiv [preprint](https://arxiv.org/abs/2201.08506)."
   - date: "04/22"
     info: "*Deep Radio Interferometric Imaging with POLISH: DSA-2000* and weak lensing accepted for publication in Monthly Notices of the Royal Astronomical Society Main Journal. Check out the arXiv [preprint](https://arxiv.org/abs/2111.03249)."
   - date: "03/22"
