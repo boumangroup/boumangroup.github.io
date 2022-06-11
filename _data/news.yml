@@ -1,7 +1,7 @@
 # News on the home page. Strings will be Markdown-ified.
 main:
   - date: "06/22"
-    info: "Our work AstroNeRF is featured in the latest Caltech EAS Tech Brief: [Bringing a New Dimension into Black Hole Imaging](https://eas.caltech.edu/news/1536)"
+    info: "Our work BH-NeRF is featured in the latest Caltech EAS Tech Brief: [Bringing a New Dimension into Black Hole Imaging](https://eas.caltech.edu/news/1536)"
   - date: "05/22"
     info: "Tune in at 6 am Pacific / 9 am Eastern on May 12 to hear about some [exciting new results](https://www.nsf.gov/news/news_summ.jsp?cntn_id=305028&org=NSF&fbclid=IwAR3SzzHsfljYN9MF8zgJ02_RGIhjD-VmGaAvCkonPCPcu-oD35hku_ZgFng) from the EHT!" 
   - date: "08/22"
@@ -29,7 +29,7 @@ main:
 
 all:
   - date: "06/22"
-    info: "Our work AstroNeRF is featured in the latest Caltech EAS Tech Brief: [Bringing a New Dimension into Black Hole Imaging](https://eas.caltech.edu/news/1536)"
+    info: "Our work BH-NeRF is featured in the latest Caltech EAS Tech Brief: [Bringing a New Dimension into Black Hole Imaging](https://eas.caltech.edu/news/1536)"
   - date: "05/22"
     info: "Tune in at 6 am Pacific / 9 am Eastern on May 12 to hear about some [exciting new results](https://www.nsf.gov/news/news_summ.jsp?cntn_id=305028&org=NSF&fbclid=IwAR3SzzHsfljYN9MF8zgJ02_RGIhjD-VmGaAvCkonPCPcu-oD35hku_ZgFng) from the EHT!" 
   - date: "08/22"
