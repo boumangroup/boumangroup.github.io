@@ -1,14 +1,17 @@
 # Publications
 highlight:  # publications to be shown on home page
+  - title: "First Image of the Milky Way’s Black Hole"
+    link: "http://imaging.cms.caltech.edu/sgra/"
+    teaser: "publications/sgra_teaser.png"
   - title: "Gravitationally Lensed Black Hole Emission Tomography"
     link: "http://imaging.cms.caltech.edu/bhnerf/"
     teaser: "publications/bhnerf_teaser.gif"
-  - title: "DeepGEM: Generalized Expectation-Maximization for Blind Inversion"
-    link: "http://imaging.cms.caltech.edu/deepgem/"
-    teaser: publications/deepgem_teaser.png
   - title: "Visual Vibration Tomography"
     link: "http://imaging.cms.caltech.edu/vvt/"
     teaser: publications/vvt_teaser.png
+  - title: "DeepGEM: Generalized Expectation-Maximization for Blind Inversion"
+    link: "http://imaging.cms.caltech.edu/deepgem/"
+    teaser: publications/deepgem_teaser.png
   - title: "End-to-End Sequential Sampling and Reconstruction for MRI"
     link: "http://imaging.cms.caltech.edu/seq-mri/"
     teaser: publications/seq_sampling_teaser.gif
@@ -26,6 +29,36 @@ highlight:  # publications to be shown on home page
     teaser: publications/polish.png
   
 papers:
+  - title: "First Sagittarius A* Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole in the Center of the Milky Way"
+    authors: "The Event Horizon Telescope Collaboration, et al."
+    venue: "The Astrophysical Journal Letters, 930, L12, 2022"
+    links: 
+      - "[Paper](https://iopscience.iop.org/article/10.3847/2041-8213/ac6674){: .btn .btn--orange}"
+  - title: "First Sagittarius A*; Event Horizon Telescope Results. II. EHT and Multiwavelength Observations, Data Processing, and Calibration"
+    authors: "The Event Horizon Telescope Collaboration, et al."
+    venue: "The Astrophysical Journal Letters, 930, L12, 2022"
+    links: 
+      - "[Paper](https://iopscience.iop.org/article/10.3847/2041-8213/ac6675){: .btn .btn--orange}"
+  - title: "First Sagittarius A* Event Horizon Telescope Results. III. Imaging of the Galactic Center Supermassive Black Hole"
+    authors: "The Event Horizon Telescope Collaboration, et al. (K.L. Bouman was a Paper Coordinator)"
+    venue: "The Astrophysical Journal Letters, 930, L12, 2022"
+    links: 
+      - "[Paper](https://iopscience.iop.org/article/10.3847/2041-8213/ac6429){: .btn .btn--orange}"
+  - title: "First Sagittarius A* Event Horizon Telescope Results. IV. Variability, Morphology, and Black Hole Mass"
+    authors: "The Event Horizon Telescope Collaboration, et al."
+    venue: "The Astrophysical Journal Letters, 930, L12, 2022"
+    links: 
+      - "[Paper](https://iopscience.iop.org/article/10.3847/2041-8213/ac6736){: .btn .btn--orange}"
+  - title: "First Sagittarius A* Event Horizon Telescope Results. V. Testing Astrophysical Models of the Galactic Center Black Hole"
+    authors: "The Event Horizon Telescope Collaboration, et al."
+    venue: "The Astrophysical Journal Letters, 930, L12, 2022"
+    links: 
+      - "[Paper](https://iopscience.iop.org/article/10.3847/2041-8213/ac6672){: .btn .btn--orange}"
+  - title: "First Sagittarius A* Event Horizon Telescope Results. VI. Testing the Black Hole Metric"
+    authors: "The Event Horizon Telescope Collaboration, et al."
+    venue: "The Astrophysical Journal Letters, 930, L12, 2022"
+    links: 
+      - "[Paper](https://iopscience.iop.org/article/10.3847/2041-8213/ac6756){: .btn .btn--orange}"
   - title: "alpha-Deep Probabilistic Inference (alpha-DPI): efficient uncertainty quantification from exoplanet astrometry to black hole feature extraction"
     authors: "H. Sun, K.L. Bouman, P. Tiede, J.J. Wang, S. Blunt, D. Mawet"
     venue: "The Astrophysical Journal (ApJ), 2022"
