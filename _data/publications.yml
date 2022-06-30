@@ -25,7 +25,7 @@ highlight:  # publications to be shown on home page
     link: "http://rkcosner.com/research/OnlineStereo/"
     teaser: publications/safety.png
   - title: "Deep Radio Imaging"
-    link: "https://arxiv.org/abs/2111.03249"
+    link: "https://academic.oup.com/mnras/article/514/2/2614/6585671?guestAccessKey=fe92706d-dc7a-418e-a648-dd835712ee4f"
     teaser: publications/polish.png
   
 papers:
@@ -68,7 +68,7 @@ papers:
     authors: "L. Connor, K.L. Bouman, V. Ravi, G. Hallinan"
     venue: "Monthly Notices of the Royal Astronomical Society Main Journal, 2022"
     links: 
-      - "[arXiv pre-print](https://arxiv.org/abs/2111.03249){: .btn .btn--orange}"
+      - "[Paper](https://academic.oup.com/mnras/article/514/2/2614/6585671?guestAccessKey=fe92706d-dc7a-418e-a648-dd835712ee4f){: .btn .btn--orange}"
   - title: "Visual Vibration Tomography: Estimating Interior Material Properties from Monocular Video"
     authors: "B.T. Feng, A.C. Ogren, C. Daraio, K.L. Bouman"
     venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022 (**Oral**)"
