@@ -1,8 +1,7 @@
 # News on the home page. Strings will be Markdown-ified.
 main:
   - date: "06/22"
-    info: "Check out the CVPR tutorial [“Computational Imaging for Science: From Cells to Galaxies”](https://sites.google.com/view/cvpr2022-comp-imaging-tutorial
-https://sites.google.com/view/cvpr2022-comp-imaging-tutorial) on June 19, co-organized by Avaid Levis"
+    info: "Check out the CVPR tutorial [“Computational Imaging for Science: From Cells to Galaxies”](https://sites.google.com/view/cvpr2022-comp-imaging-tutorial) on June 19, co-organized by Avaid Levis"
   - date: "06/22"
     info: "Our work BH-NeRF is featured in the latest Caltech EAS Tech Brief: [Bringing a New Dimension into Black Hole Imaging](https://eas.caltech.edu/news/1536)"
   - date: "05/22"
@@ -22,8 +21,7 @@ https://sites.google.com/view/cvpr2022-comp-imaging-tutorial) on June 19, co-org
 
 all:
   - date: "06/22"
-    info: "Check out the CVPR tutorial [“Computational Imaging for Science: From Cells to Galaxies”](https://sites.google.com/view/cvpr2022-comp-imaging-tutorial
-https://sites.google.com/view/cvpr2022-comp-imaging-tutorial) on June 19, co-organized by Avaid Levis"
+    info: "Check out the CVPR tutorial [“Computational Imaging for Science: From Cells to Galaxies”](https://sites.google.com/view/cvpr2022-comp-imaging-tutorial) on June 19, co-organized by Avaid Levis"
   - date: "06/22"
     info: "Our work BH-NeRF is featured in the latest Caltech EAS Tech Brief: [Bringing a New Dimension into Black Hole Imaging](https://eas.caltech.edu/news/1536)"
   - date: "05/22"
