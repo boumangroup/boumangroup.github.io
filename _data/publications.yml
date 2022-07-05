@@ -59,11 +59,11 @@ papers:
     venue: "The Astrophysical Journal Letters, 930, L12, 2022"
     links: 
       - "[Paper](https://iopscience.iop.org/article/10.3847/2041-8213/ac6756){: .btn .btn--orange}"
-  - title: "alpha-Deep Probabilistic Inference (alpha-DPI): efficient uncertainty quantification from exoplanet astrometry to black hole feature extraction"
+  - title: "alpha-Deep Probabilistic Inference (alpha-DPI): Efficient Uncertainty Quantification from Exoplanet Astrometry to Black Hole Feature Extraction"
     authors: "H. Sun, K.L. Bouman, P. Tiede, J.J. Wang, S. Blunt, D. Mawet"
     venue: "The Astrophysical Journal (ApJ), 2022"
     links: 
-      - "[arXiv pre-print](https://arxiv.org/abs/2201.08506){: .btn .btn--orange}"
+      - "[Paper](https://iopscience.iop.org/article/10.3847/1538-4357/ac6be9){: .btn .btn--orange}"
   - title: "Deep Radio Interferometric Imaging with POLISH: DSA-2000 and weak lensing"
     authors: "L. Connor, K.L. Bouman, V. Ravi, G. Hallinan"
     venue: "Monthly Notices of the Royal Astronomical Society Main Journal, 2022"
