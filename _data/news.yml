@@ -1,7 +1,9 @@
 # News on the home page. Strings will be Markdown-ified.
 main:
+  - date: "11/22"
+    info: "Read about the [new computational algorithms we are developing for black hole imaging](https://sinews.siam.org/Details-Page/computational-imaging-sheds-light-on-the-black-hole-in-our-galactic-center) in SIAM News November issue."
   - date: "06/22"
-    info: "Check out the CVPR tutorial [“Computational Imaging for Science: From Cells to Galaxies”](https://sites.google.com/view/cvpr2022-comp-imaging-tutorial) on June 19, co-organized by Avaid Levis"
+    info: "Check out the CVPR tutorial [“Computational Imaging for Science: From Cells to Galaxies”](https://sites.google.com/view/cvpr2022-comp-imaging-tutorial) on June 19, co-organized by Aviad Levis."
   - date: "06/22"
     info: "Our work BH-NeRF is featured in the latest Caltech EAS Tech Brief: [Bringing a New Dimension into Black Hole Imaging](https://eas.caltech.edu/news/1536)"
   - date: "05/22"
@@ -20,8 +22,10 @@ main:
     info: "*Visual Vibration Tomography* accepted to CVPR 2022 as an Oral. Check out the [website](http://imaging.cms.caltech.edu/vvt/) containing the paper and a video explanation."
 
 all:
+  - date: "11/22"
+    info: "Read about the [new computational algorithms we are developing for black hole imaging](https://sinews.siam.org/Details-Page/computational-imaging-sheds-light-on-the-black-hole-in-our-galactic-center) in SIAM News November issue."
   - date: "06/22"
-    info: "Check out the CVPR tutorial [“Computational Imaging for Science: From Cells to Galaxies”](https://sites.google.com/view/cvpr2022-comp-imaging-tutorial) on June 19, co-organized by Avaid Levis"
+    info: "Check out the CVPR tutorial [“Computational Imaging for Science: From Cells to Galaxies”](https://sites.google.com/view/cvpr2022-comp-imaging-tutorial) on June 19, co-organized by Aviad Levis."
   - date: "06/22"
     info: "Our work BH-NeRF is featured in the latest Caltech EAS Tech Brief: [Bringing a New Dimension into Black Hole Imaging](https://eas.caltech.edu/news/1536)"
   - date: "05/22"

@@ -5,10 +5,6 @@ pi:
   title: "Assistant Professor"
   photo: people/klbouman.jpg
 postdoc:
-- name: "He Sun"
-  link: "http://users.cms.caltech.edu/~hesun/"
-  title: "Postdoctoral Researcher"
-  photo: people/hsun.jpg
 - name: "Aviad Levis"
   link: "https://www.aviadlevis.info/"
   title: "Postdoctoral Researcher"
@@ -36,6 +32,8 @@ phd:
   title: "PhD Student"
   photo: people/bzhao.jpg
 
-undergrad:
-- name: "Johanna Karras '21"
-- name: "Erich Liang '21"
+alumni:
+- name: "He Sun"
+  link: "http://users.cms.caltech.edu/~hesun/"
+  title: "Postdoctoral Researcher"
+  photo: people/hsun.jpg

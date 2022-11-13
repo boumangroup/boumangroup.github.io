@@ -18,6 +18,14 @@ include_slideshow: true
   {% endfor %}
 </div>
 
+<h2>Alumni</h2>
+<div class="tiles__container">
+  {% for people in site.data.people.alumni %}
+    {% include people-single.html %}
+  {% endfor %}
+</div>
+
+
 <!-- <h2>Undergraduate Students</h2>
 <ul>
   {% for people in site.data.people.undergrad %}
