@@ -1,5 +1,8 @@
 # Publications
 highlight:  # publications to be shown on home page
+  - title: ""Ill-Posed Image Reconstruction Without an Explicit Image Prior
+    link: "http://imaging.cms.caltech.edu/igm/"
+    teaser: "publications/igm_teaser.png"
   - title: "First Image of the Milky Way’s Black Hole"
     link: "http://imaging.cms.caltech.edu/sgra/"
     teaser: "publications/sgra_teaser.png"
