@@ -1,6 +1,6 @@
 # Publications
 highlight:  # publications to be shown on home page
-  - title: ""Ill-Posed Image Reconstruction Without an Explicit Image Prior
+  - title: "Ill-Posed Image Reconstruction Without an Explicit Image Prior"
     link: "http://imaging.cms.caltech.edu/igm/"
     teaser: "publications/igm_teaser.png"
   - title: "First Image of the Milky Way’s Black Hole"
@@ -32,6 +32,12 @@ highlight:  # publications to be shown on home page
     teaser: publications/polish.png
   
 papers:
+  - title: "Image Reconstruction without Explicit Priors"
+    authors: "A.F. Gao, O. Leong, H. Sun, and K.L. Bouman"
+    venue: "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+    links: 
+      - "[Paper](https://ieeexplore.ieee.org/abstract/document/10096515/){: .btn .btn--orange}"
+      - "[Project Website](http://imaging.cms.caltech.edu/igm/){: .btn .btn--inverse}"
   - title: "First Sagittarius A* Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole in the Center of the Milky Way"
     authors: "The Event Horizon Telescope Collaboration, et al."
     venue: "The Astrophysical Journal Letters, 930, L12, 2022"
