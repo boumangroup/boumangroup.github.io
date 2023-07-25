@@ -3,7 +3,7 @@ highlight:  # publications to be shown on home page
   - title: "Score-Based Priors"
     link: "http://imaging.cms.caltech.edu/score_prior/"
     teaser: "publications/score_prior_teaser.png"
-  - title: ""Ill-Posed Image Reconstruction Without an Explicit Image Prior"
+  - title: "Ill-Posed Image Reconstruction Without an Explicit Image Prior"
     link: "http://imaging.cms.caltech.edu/igm/"
     teaser: "publications/igm_teaser.png"
   - title: "First Image of the Milky Way’s Black Hole"
