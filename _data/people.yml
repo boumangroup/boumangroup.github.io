@@ -13,6 +13,10 @@ postdoc:
   link: "https://sites.google.com/view/oscarleong/home"
   title: "Von Karman Instructor"
   photo: people/oleong.jpg
+- name: "Yu Sun"
+  link: "https://sunyumark.github.io/"
+  title: "Postdoctoral Researcher"
+  photo: people/sunyu.jpeg
 
 phd:
 - name: "Berthy Feng"
@@ -31,9 +35,16 @@ phd:
   link: "https://brandonyzhao.github.io/"
   title: "PhD Student"
   photo: people/bzhao.jpg
+- name: "Heri Rajaoberison"
+  link: "https://www.linkedin.com/in/heriniainarajaoberison/"
+  title: "PhD Student"
+  photo: people/hrajaobe.jpg
 
 alumni:
+- name: "Nitika Yadlapalli"
+  title: "NASA Postdoctoral Program Fellow at JPL"
+  photo: people/nyadlapa.jpeg
 - name: "He Sun"
   link: "http://users.cms.caltech.edu/~hesun/"
-  title: "Postdoctoral Researcher"
+  title: "Professor at Peking University"
   photo: people/hsun.jpg

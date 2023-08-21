@@ -42,7 +42,7 @@ papers:
       - "[Paper](https://arxiv.org/abs/2304.11751){: .btn .btn--orange}"
   - title: "Image Reconstruction without Explicit Priors"
     authors: "A.F. Gao, O. Leong, H. Sun, and K.L. Bouman"
-    venue: "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+    venue: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023"
     links: 
       - "[Paper](https://ieeexplore.ieee.org/abstract/document/10096515/){: .btn .btn--orange}"
       - "[Project Website](http://imaging.cms.caltech.edu/igm/){: .btn .btn--inverse}"
