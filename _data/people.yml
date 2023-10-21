@@ -7,11 +7,11 @@ pi:
 postdoc:
 - name: "Aviad Levis"
   link: "https://www.aviadlevis.info/"
-  title: "Postdoctoral Researcher"
+  title: "Postdoctoral Researcher --- Assistant Professor at University of Toronto starting summer 2024"
   photo: people/alevis.jpg
 - name: "Oscar Leong"
   link: "https://sites.google.com/view/oscarleong/home"
-  title: "Von Karman Instructor"
+  title: "Von Karman Instructor --- Assistant Professor at UCLA starting summer 2024"
   photo: people/oleong.jpg
 - name: "Yu Sun"
   link: "https://sunyumark.github.io/"
@@ -41,7 +41,7 @@ phd:
   photo: people/hrajaobe.jpg
 
 alumni:
-- name: "Nitika Yadlapalli"
+- name: "Nitika Yadlapalli Yurk"
   title: "NASA Postdoctoral Program Fellow at JPL"
   photo: people/nyadlapa.jpeg
 - name: "He Sun"
