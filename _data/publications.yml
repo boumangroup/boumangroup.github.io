@@ -28,7 +28,7 @@ highlight:  # publications to be shown on home page
     link: "http://imaging.cms.caltech.edu/dpi/"
     teaser: publications/dpi_teaser.png
   - title: "Online Learning for Safety-Critical Control"
-    link: "http://rkcosner.com/research/OnlineStereo/"
+    link: "https://www.rkcosner.com/research/OnlineStereo/"
     teaser: publications/safety.png
   - title: "Deep Radio Imaging"
     link: "https://academic.oup.com/mnras/article/514/2/2614/6585671?guestAccessKey=fe92706d-dc7a-418e-a648-dd835712ee4f"
@@ -102,7 +102,7 @@ papers:
     authors: "R.K. Cosner, I.D. Jimenez Rodriguez, T.G. Molnar, W. Ubellacker, Y. Yue, A.D. Ames, K.L. Bouman"
     venue: "39th International Conference on Robotics and Automation (ICRA), 2022"
     links:
-      - "[Project Website & Code](http://rkcosner.com/research/OnlineStereo/){: .btn .btn--inverse}"
+      - "[Project Website & Code](https://www.rkcosner.com/research/OnlineStereo/){: .btn .btn--inverse}"
   - title: "DeepGEM: Generalized Expectation-Maximization for Blind Inversion"
     authors: "A.F. Gao, J.C. Castellanos, Y Yue, Z.E. Ross, K.L. Bouman"
     venue: "35th Conference on Neural Information Processing Systems (NeurIPS), 2021"
