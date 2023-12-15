@@ -1,5 +1,8 @@
 # Publications
 highlight:  # publications to be shown on home page
+  - title: "Learning Task-Specific Strategies for Accelerated MRI"
+    link: "http://imaging.cms.caltech.edu/tackle/"
+    teaser: "publications/tackle_teaser.png"
   - title: "Score-Based Priors"
     link: "http://imaging.cms.caltech.edu/score_prior/"
     teaser: "publications/score_prior_teaser.png"
