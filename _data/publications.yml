@@ -1,5 +1,8 @@
 # Publications
 highlight:  # publications to be shown on home page
+  - title: "Imaging M87* under Different Image Assumptions via Deep Generative Image Priors"
+    link: "http://imaging.cms.caltech.edu/m87_score_prior/"
+    teaser: "publications/m87_score_prior_teaser.png"
   - title: "Learning Task-Specific Strategies for Accelerated MRI"
     link: "http://imaging.cms.caltech.edu/tackle/"
     teaser: "publications/tackle_teaser.png"
