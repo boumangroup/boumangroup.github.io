@@ -41,11 +41,27 @@ highlight:  # publications to be shown on home page
     teaser: publications/polish.png
   
 papers:
+  - title: "First Sagittarius A* Event Horizon Telescope Results. VII. Polarization of the Ring"
+    authors: "The Event Horizon Telescope Collaboration, et al."
+    venue: "The Astrophysical Journal Letters, 964, L25, 2024"
+    links: 
+      - "[Paper](https://iopscience.iop.org/article/10.3847/2041-8213/ad2df0){: .btn .btn--orange}"
+  - title: "The Persistent Shadow of the Supermassive Black Hole of M87 I. Observations, Calibration, Imaging and Analysis"
+    authors: "The Event Horizon Telescope Collaboration, et al."
+    venue: "The Astrophysical Journal, 788(2), 120, 2024"
+    links: 
+      - "[Paper](https://www.aanda.org/articles/aa/full_html/2024/01/aa47932-23/aa47932-23.html){: .btn .btn--orange}"
+  - title: "Gaussian process regression as a surrogate model for the computation of dispersion relations"
+    authors: "A.C. Ogren, B.T. Feng, K.L. Bouman, C. Daraio"
+    venue: "Computer Methods in Applied Mechanics and Engineering, Volume 420, 116661, 2024"
+    links:
+      - "[Paper](https://www.sciencedirect.com/science/article/pii/S0045782523007843){: .btn .btn--orange}"
   - title: "Score-Based Diffusion Models as Principled Priors for Inverse Imaging"
     authors: "B.T. Feng, J. Smith, M. Rubinstein, H. Chang, K.L. Bouman, W.T. Freeman"
     venue: "IEEE/CVF International Conference on Computer Vision (ICCV), 2023"
     links: 
       - "[Paper](https://arxiv.org/abs/2304.11751){: .btn .btn--orange}"
+      - "[Project Website](http://imaging.cms.caltech.edu/score_prior/){: .btn .btn--inverse}"
   - title: "Discovering Structure From Corruption for Unsupervised Image Reconstruction"
     authors: "O. Leong\\*, A.F. Gao\\*, H. Sun, and K.L. Bouman"
     venue: "IEEE Transactions on Computational Imaging, 2023"
