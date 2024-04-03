@@ -46,6 +46,12 @@ papers:
     venue: "IEEE/CVF International Conference on Computer Vision (ICCV), 2023"
     links: 
       - "[Paper](https://arxiv.org/abs/2304.11751){: .btn .btn--orange}"
+  - title: "Discovering Structure From Corruption for Unsupervised Image Reconstruction"
+    authors: "O. Leong\\*, A.F. Gao\\*, H. Sun, and K.L. Bouman"
+    venue: "IEEE Transactions on Computational Imaging, 2023"
+    links: 
+      - "[Paper](https://ieeexplore.ieee.org/document/10309279){: .btn .btn--orange}"
+      - "[Project Website](http://imaging.cms.caltech.edu/igm/){: .btn .btn--inverse}"
   - title: "Image Reconstruction without Explicit Priors"
     authors: "A.F. Gao, O. Leong, H. Sun, and K.L. Bouman"
     venue: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023"
