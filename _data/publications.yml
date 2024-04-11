@@ -1,5 +1,8 @@
 # Publications
 highlight:  # publications to be shown on home page
+  - title: "Single-View Refractive Index Tomography with Neural Fields"
+    link: "http://imaging.cms.caltech.edu/rtnf/"
+    teaser: "publications/rtnf_teaser.png"
   - title: "Imaging M87* under Different Image Assumptions via Deep Generative Image Priors"
     link: "http://imaging.cms.caltech.edu/m87_score_prior/"
     teaser: "publications/m87_score_prior_teaser.png"
