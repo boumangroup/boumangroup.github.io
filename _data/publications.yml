@@ -44,6 +44,17 @@ highlight:  # publications to be shown on home page
     teaser: publications/polish.png
   
 papers:
+  - title: "Score-based Diffusion Models for Photoacoustic Tomography Image Reconstruction"
+    authors: "S. Dey, S. Saha, B.T. Feng, M. Cui, L. Delisle, O. Leong, L.V. Wang, K.L. Bouman"
+    venue: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024"
+    links: 
+      - "[Paper](https://arxiv.org/abs/2404.00471){: .btn .btn--orange}"
+      - "[Video](https://www.youtube.com/watch?v=FqnkS_ocPfo&t=9s){: .btn .btn--inverse}"
+  - title: "Imaging an Evolving Black Hole by Leveraging Shared Structure"
+    authors: "Y.Y. Lin, A.F. Gao, K.L. Bouman"
+    venue: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024"
+    links: 
+      - "[Paper](http://imaging.cms.caltech.edu/igm/BHIGM_paper_v2.pdf){: .btn .btn--orange}"
   - title: "First Sagittarius A* Event Horizon Telescope Results. VII. Polarization of the Ring"
     authors: "The Event Horizon Telescope Collaboration, et al."
     venue: "The Astrophysical Journal Letters, 964, L25, 2024"
