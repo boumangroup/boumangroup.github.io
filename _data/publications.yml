@@ -1,5 +1,8 @@
 # Publications
 highlight:  # publications to be shown on home page
+  - title: "First 3D Recovery of the Gas Around a Black Hole"
+    link: "http://imaging.cms.caltech.edu/orbital_tomography/"
+    teaser: "publications/orbital_tomography_teaser.gif"
   - title: "Single-View Refractive Index Tomography with Neural Fields"
     link: "http://imaging.cms.caltech.edu/rtnf/"
     teaser: "publications/rtnf_teaser.png"
