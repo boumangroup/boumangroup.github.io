@@ -1,5 +1,8 @@
 # Publications
 highlight:  # publications to be shown on home page
+  - title: "Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors"
+    link: "http://imaging.cms.caltech.edu/pnpdm/"
+    teaser: "publications/pnpdm_teaser.png"
   - title: "First 3D Recovery of the Gas Around a Black Hole"
     link: "http://imaging.cms.caltech.edu/orbital_tomography/"
     teaser: "publications/orbital_tomography_teaser.gif"
