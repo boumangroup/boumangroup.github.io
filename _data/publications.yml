@@ -1,5 +1,7 @@
 # Publications
 highlight:  # publications to be shown on home page
+  - title: "Plug-and-Play Monte Carlo"
+    teaser: "publications/pnpmc_teaser.gif"
   - title: "Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors"
     link: "http://imaging.cms.caltech.edu/pnpdm/"
     teaser: "publications/pnpdm_teaser.png"
