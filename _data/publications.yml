@@ -53,6 +53,12 @@ highlight:  # publications to be shown on home page
     teaser: publications/polish.png
   
 papers:
+  - title: "Variational Bayesian Imaging with an Efficient Surrogate Score-based Prior"
+    authors: "B.T. Feng, K.L. Bouman, W.T. Freeman"
+    venue: "Transactions on Machine Learning (TMLR), 2024"
+    links: 
+      - "[Paper](https://openreview.net/forum?id=db2pFKVcm1){: .btn .btn--orange}"
+      - "[Project Website](http://imaging.cms.caltech.edu/m87_score_prior/){: .btn .btn--inverse}"
   - title: "Score-based Diffusion Models for Photoacoustic Tomography Image Reconstruction"
     authors: "S. Dey, S. Saha, B.T. Feng, M. Cui, L. Delisle, O. Leong, L.V. Wang, K.L. Bouman"
     venue: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024"
