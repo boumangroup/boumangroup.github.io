@@ -1,5 +1,7 @@
 # News on the home page. Strings will be Markdown-ified.
 main:
+  - date: "01/25"
+    info: "Check out the article on [*Seeing Beyond the Blur with Generative AI*](https://dl.acm.org/doi/10.1145/3703400) written by Berthy Feng and Katie Bouman in the ACM's *XRDS* Magazine."
   - date: "05/24"
     info: "Congratulations to Ray Wu for winning the Thomas A. Tisch Prize for Graduate Teaching in CMS!"
   - date: "04/24"
@@ -20,6 +22,12 @@ main:
     info: "Check out the CVPR tutorial [“Computational Imaging for Science: From Cells to Galaxies”](https://sites.google.com/view/cvpr2022-comp-imaging-tutorial) on June 19, co-organized by Aviad Levis."
 
 all:
+  - date: "01/25"
+    info: "Check out the article on [*Seeing Beyond the Blur with Generative AI*](https://dl.acm.org/doi/10.1145/3703400) written by Berthy Feng and Katie Bouman in the ACM's *XRDS* Magazine."
+  - date: "05/24"
+    info: "Congratulations to Ray Wu for winning the Thomas A. Tisch Prize for Graduate Teaching in CMS!"
+  - date: "04/24"
+    info: "A new paper, out in [Nature Astronomy](https://www.nature.com/articles/s41550-024-02238-3), reconstructs the 3D strcuture of a flare around Sagittarius A*! Check out the [Caltech news release](https://www.caltech.edu/about/news/ai-and-physics-combine-to-reveal-the-3d-structure-of-a-flare-erupting-around-a-black-hole) and [project page](http://imaging.cms.caltech.edu/orbital_tomography/)."
   - date: "02/24"
     info: "Katie wins a 2024 Sloan Research Fellowship! Check out the [Caltech news release](https://www.caltech.edu/about/news/caltech-professors-win-2024-sloan-fellowships)."
   - date: "01/24"
