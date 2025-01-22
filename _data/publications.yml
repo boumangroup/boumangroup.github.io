@@ -53,6 +53,11 @@ highlight:  # publications to be shown on home page
     teaser: publications/polish.png
   
 papers:
+  - title: "ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning"
+    authors: "H. Chung, D. Lee, Z. Wu, B.H. Kim, K.L. Bouman, J.C. Ye"
+    venue: "In submission, 2025"
+    links: 
+      - "[Paper](https://arxiv.org/abs/2501.04284){: .btn .btn--orange}"
   - title: "Variational Bayesian Imaging with an Efficient Surrogate Score-based Prior"
     authors: "B.T. Feng, K.L. Bouman, W.T. Freeman"
     venue: "Transactions on Machine Learning (TMLR), 2024"
