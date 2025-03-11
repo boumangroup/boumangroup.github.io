@@ -1,6 +1,8 @@
 # News on the home page. Strings will be Markdown-ified.
 main:
   - date: "01/25"
+    info: "Katie wins the PECASE Award! Check out the [Caltech news release](https://www.caltech.edu/about/news/PECASE_Awards_2025)."
+  - date: "01/25"
     info: "Check out our paper on [Revealing the 3D Cosmic Web through Gravitationally Constrained Neural Fields](https://openreview.net/pdf?id=Ax0i933gtp), which leverages deep learning for dark matter fields, recently accepted to ICLR 2025!"
   - date: "01/25"
     info: "Check out the article on [*Seeing Beyond the Blur with Generative AI*](https://dl.acm.org/doi/10.1145/3703400) written by Berthy Feng and Katie Bouman in the ACM's *XRDS* Magazine."

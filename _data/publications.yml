@@ -53,6 +53,21 @@ highlight:  # publications to be shown on home page
     teaser: publications/polish.png
   
 papers:
+  - title: "Exoplanet Imaging via Differentiable Rendering"
+    authors: "B.Y. Feng, R. Ferrer-Chavez, A. Levis, J.J. Wang, K.L. Bouman"
+    venue: "IEEE Transactions on Computational Imaging, 2025"
+    links: 
+      - "[Paper](https://arxiv.org/abs/2501.01912){: .btn .btn--orange}" 
+  - title: "InverseBench: Benchmarking Plug-and-Play Diffusion Models for Inverse Problems in Physical Sciences"
+    authors: "H. Zheng, W. Chu, B. Zhang, Z. Wu, A. Wang, B.T. Feng, C. Zou, Y. Sun, N. Kovachki, Z.E. Ross, K.L. Bouman, Y. Yue"
+    venue: "ICLR, 2025 (Spotlight)"
+    links: 
+      - "[Paper](https://openreview.net/pdf?id=U3PBITXNG6){: .btn .btn--orange}" 
+  - title: "Neural Approximate Mirror Maps for Constrained Diffusion Models"
+    authors: "B.T. Feng, R. Baptista, K.L. Bouman"
+    venue: "ICLR, 2025"
+    links: 
+      - "[Paper](https://arxiv.org/abs/2406.12816){: .btn .btn--orange}"   
   - title: "Revealing the 3D Cosmic Web through Gravitationally Constrained Neural Fields"
     authors: "B. Zhao, A. Levis, L. Connor, P.P. Srinivasan, K.L. Bouman"
     venue: "ICLR, 2025"
