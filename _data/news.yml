@@ -70,6 +70,8 @@ all:
     info: "Prof. Bouman awarded the [Royal Photographic Society Progress Model](https://rps.org/about/awards/history-and-recipients/progress-medal)"
   - date: "10/21"
     info: "*End-to-End Sequential Sampling and Reconstruction for MR Imaging* awarded Best Paper at ML4H Conference 2021. Check out the [website](http://imaging.cms.caltech.edu/seq-mri/) containing the paper, code, and a video explanation."
+  - date: "10/21"
+    info: "[Brandon Zhao](https://brandonyzhao.github.io/) joins the lab with a Gupta Fellowship!"
   - date: "09/21"
     info: "*DeepGEM: Generalized Expectation-Maximization for Blind Inversion* accepted fro publication at NeurIPS 2021."
   - date: "07/21"
