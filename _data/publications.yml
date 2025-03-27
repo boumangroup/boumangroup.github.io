@@ -53,6 +53,11 @@ highlight:  # publications to be shown on home page
     teaser: publications/polish.png
   
 papers:
+  - title: "Neural Approximate Mirror Maps for Constrained Diffusion Models"
+    authors: "B.T. Feng, R. Baptista, K.L. Bouman"
+    venue: "ICLR, 2025"
+    links: 
+      - "[Paper](https://arxiv.org/abs/2406.12816){: .btn .btn--orange}"
   - title: "ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning"
     authors: "H. Chung, D. Lee, Z. Wu, B.H. Kim, K.L. Bouman, J.C. Ye"
     venue: "In submission, 2025"
@@ -63,7 +68,7 @@ papers:
     venue: "Transactions on Machine Learning (TMLR), 2024"
     links: 
       - "[Paper](https://openreview.net/forum?id=db2pFKVcm1){: .btn .btn--orange}"
-      - "[Project Website](http://imaging.cms.caltech.edu/m87_score_prior/){: .btn .btn--inverse}"
+      - "[Project Website](https://imaging.cms.caltech.edu/score_prior/){: .btn .btn--inverse}"
   - title: "Score-based Diffusion Models for Photoacoustic Tomography Image Reconstruction"
     authors: "S. Dey, S. Saha, B.T. Feng, M. Cui, L. Delisle, O. Leong, L.V. Wang, K.L. Bouman"
     venue: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024"
