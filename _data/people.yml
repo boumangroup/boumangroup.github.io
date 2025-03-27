@@ -4,19 +4,8 @@ pi:
   link: "http://users.cms.caltech.edu/~klbouman/index.html"
   title: "Assistant Professor"
   photo: people/klbouman.jpg
-postdoc:
-- name: "Aviad Levis"
-  link: "https://www.aviadlevis.info/"
-  title: "Postdoctoral Researcher --- Assistant Professor at University of Toronto starting summer 2024"
-  photo: people/alevis.jpg
-- name: "Oscar Leong"
-  link: "https://sites.google.com/view/oscarleong/home"
-  title: "Von Karman Instructor --- Assistant Professor at UCLA starting summer 2024"
-  photo: people/oleong.jpg
-- name: "Yu Sun"
-  link: "https://sunyumark.github.io/"
-  title: "Postdoctoral Researcher"
-  photo: people/sunyu.jpeg
+# postdoc:
+
 
 phd:
 - name: "Berthy Feng"
@@ -35,16 +24,36 @@ phd:
   link: "https://brandonyzhao.github.io/"
   title: "PhD Student"
   photo: people/bzhao.jpg
-- name: "Heri Rajaoberison"
-  link: "https://www.linkedin.com/in/heriniainarajaoberison/"
-  title: "MS Student"
-  photo: people/hrajaobe.jpg
+- name: "Bingliang Zhang"
+  link: "https://zhangbingliang2019.github.io/"
+  title: "PhD Student"
+  photo: people/bingliang.webp
+- name: "Frederic Wang"
+  link: "https://www.cms.caltech.edu/people/frederic-wang"
+  title: "PhD Student"
+  photo: people/fred3.png
 
 alumni:
+- name: "Aviad Levis"
+  link: "https://www.aviadlevis.info/"
+  title: "Assistant Professor, University of Toronto"
+  photo: people/alevis.jpg
+- name: "Oscar Leong"
+  link: "https://sites.google.com/view/oscarleong/home"
+  title: "Assistant Professor, UCLA"
+  photo: people/oleong.jpg
+- name: "Yu Sun"
+  link: "https://sunyumark.github.io/"
+  title: "Assistant Professor, Johns Hopkins University"
+  photo: people/sunyu.jpeg
+- name: "Heri Rajaoberison"
+  link: "https://www.linkedin.com/in/heriniainarajaoberison/"
+  title: "MS Alum"
+  photo: people/hrajaobe.jpg
 - name: "Nitika Yadlapalli Yurk"
   title: "NASA Postdoctoral Program Fellow at JPL"
   photo: people/nyadlapa.jpeg
 - name: "He Sun"
   link: "https://ai4scientificimaging.org/"
-  title: "Professor at Peking University"
+  title: "Assistant Professor, Peking University"
   photo: people/hsun.jpg

@@ -53,16 +53,51 @@ highlight:  # publications to be shown on home page
     teaser: publications/polish.png
   
 papers:
+  - title: "Exoplanet Imaging via Differentiable Rendering"
+    authors: "B.Y. Feng, R. Ferrer-Chavez, A. Levis, J.J. Wang, K.L. Bouman"
+    venue: "IEEE Transactions on Computational Imaging, 2025"
+    links: 
+      - "[Paper](https://arxiv.org/abs/2501.01912){: .btn .btn--orange}" 
+  - title: "InverseBench: Benchmarking Plug-and-Play Diffusion Models for Inverse Problems in Physical Sciences"
+    authors: "H. Zheng, W. Chu, B. Zhang, Z. Wu, A. Wang, B.T. Feng, C. Zou, Y. Sun, N. Kovachki, Z.E. Ross, K.L. Bouman, Y. Yue"
+    venue: "ICLR, 2025 (Spotlight)"
+    links: 
+      - "[Paper](https://openreview.net/pdf?id=U3PBITXNG6){: .btn .btn--orange}" 
   - title: "Neural Approximate Mirror Maps for Constrained Diffusion Models"
     authors: "B.T. Feng, R. Baptista, K.L. Bouman"
     venue: "ICLR, 2025"
     links: 
-      - "[Paper](https://arxiv.org/abs/2406.12816){: .btn .btn--orange}"
+      - "[Paper](https://arxiv.org/abs/2406.12816){: .btn .btn--orange}"   
+  - title: "Revealing the 3D Cosmic Web through Gravitationally Constrained Neural Fields"
+    authors: "B. Zhao, A. Levis, L. Connor, P.P. Srinivasan, K.L. Bouman"
+    venue: "ICLR, 2025"
+    links: 
+      - "[Paper](https://openreview.net/pdf?id=Ax0i933gtp){: .btn .btn--orange}" 
   - title: "ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning"
     authors: "H. Chung, D. Lee, Z. Wu, B.H. Kim, K.L. Bouman, J.C. Ye"
     venue: "In submission, 2025"
     links: 
       - "[Paper](https://arxiv.org/abs/2501.04284){: .btn .btn--orange}"
+  - title: "Event-horizon-scale Imaging of M87* under Different Assumptions via Deep Generative Image Priors"
+    authors: "B.T. Feng, K.L. Bouman, W.T. Freeman"
+    venue: "The Astrophysical Journal, 2024"
+    links: 
+      - "[Paper](https://arxiv.org/abs/2406.02785){: .btn .btn--orange}"
+  - title: "Provable Probabilistic Imaging Using Score-Based Generative Priors"
+    authors: "Y. Sun, Z. Wu, Y. Chen, B.T. Feng, K.L. Bouman"
+    venue: "IEEE Transactions on Computational Imaging, 2024"
+    links: 
+      - "[Paper](https://arxiv.org/abs/2310.10835){: .btn .btn--orange}"
+  - title: "Orbital polarimetric tomography of a flare near the Sagittarius A* supermassive black hole"
+    authors: "A. Levis, A.A. Chael, K.L. Bouman, M. Wielgus, P.P. Srinivasan"
+    venue: "Nature Astronomy, 2024"
+    links: 
+      - "[Paper](https://arxiv.org/abs/2310.07687){: .btn .btn--orange}"
+  - title: "Single View Refractive Index Tomography with Neural Fields"
+    authors: "B. Zhao, A. Levis, L. Connor, P.P. Srinivasan, K.L. Bouman"
+    venue: "CVPR, 2024"
+    links: 
+      - "[Paper](https://arxiv.org/abs/2309.04437){: .btn .btn--orange}" 
   - title: "Variational Bayesian Imaging with an Efficient Surrogate Score-based Prior"
     authors: "B.T. Feng, K.L. Bouman, W.T. Freeman"
     venue: "Transactions on Machine Learning (TMLR), 2024"
@@ -181,8 +216,7 @@ papers:
     links:
       - "[arXiv pre-print](https://arxiv.org/abs/2105.06460){: .btn .btn--orange}"
       - "[Project Website & Code](http://imaging.cms.caltech.edu/seq-mri/){: .btn .btn--inverse}"
-  - title: "Inference of Black Hole Fluid-Dynamics from
-Sparse Interferometric Measurements"
+  - title: "Inference of Black Hole Fluid-Dynamics from Sparse Interferometric Measurements"
     authors: "A. Levis, D. Lee, J.A. Tropp, C.F. Gammie, K.L. Bouman"
     venue: "Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2021"
     # teaser: publications/alevis_iccv21.gif
