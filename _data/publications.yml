@@ -68,7 +68,8 @@ papers:
     authors: "B.T. Feng, R. Baptista, K.L. Bouman"
     venue: "ICLR, 2025"
     links: 
-      - "[Paper](https://arxiv.org/abs/2406.12816){: .btn .btn--orange}"   
+      - "[Paper](https://arxiv.org/abs/2406.12816){: .btn .btn--orange}"
+      - "[Code](https://github.com/berthyf96/namm){: .btn .btn--inverse}"
   - title: "Revealing the 3D Cosmic Web through Gravitationally Constrained Neural Fields"
     authors: "B. Zhao, A. Levis, L. Connor, P.P. Srinivasan, K.L. Bouman"
     venue: "ICLR, 2025"
@@ -79,6 +80,12 @@ papers:
     venue: "In submission, 2025"
     links: 
       - "[Paper](https://arxiv.org/abs/2501.04284){: .btn .btn--orange}"
+  - title: "Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors"
+    authors: "Z. Wu, Y. Sun, Y. Chen, B. Zhang, Y. Yue, K.L. Bouman"
+    venue: "38th Conference on Neural Information Processing Systems (NeurIPS), 2024"
+    links: 
+      - "[Paper](https://arxiv.org/abs/2405.18782){: .btn .btn--orange}"
+      - "[Project Website & Code](https://imaging.cms.caltech.edu/pnpdm/){: .btn .btn--inverse}"
   - title: "Event-horizon-scale Imaging of M87* under Different Assumptions via Deep Generative Image Priors"
     authors: "B.T. Feng, K.L. Bouman, W.T. Freeman"
     venue: "The Astrophysical Journal, 2024"
@@ -104,7 +111,7 @@ papers:
     venue: "Transactions on Machine Learning (TMLR), 2024"
     links: 
       - "[Paper](https://openreview.net/forum?id=db2pFKVcm1){: .btn .btn--orange}"
-      - "[Project Website](http://imaging.cms.caltech.edu/m87_score_prior/){: .btn .btn--inverse}"
+      - "[Project Website](https://imaging.cms.caltech.edu/score_prior/){: .btn .btn--inverse}"
   - title: "Score-based Diffusion Models for Photoacoustic Tomography Image Reconstruction"
     authors: "S. Dey, S. Saha, B.T. Feng, M. Cui, L. Delisle, O. Leong, L.V. Wang, K.L. Bouman"
     venue: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024"
@@ -217,8 +224,7 @@ papers:
     links:
       - "[arXiv pre-print](https://arxiv.org/abs/2105.06460){: .btn .btn--orange}"
       - "[Project Website & Code](http://imaging.cms.caltech.edu/seq-mri/){: .btn .btn--inverse}"
-  - title: "Inference of Black Hole Fluid-Dynamics from
-Sparse Interferometric Measurements"
+  - title: "Inference of Black Hole Fluid-Dynamics from Sparse Interferometric Measurements"
     authors: "A. Levis, D. Lee, J.A. Tropp, C.F. Gammie, K.L. Bouman"
     venue: "Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2021"
     # teaser: publications/alevis_iccv21.gif
