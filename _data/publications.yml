@@ -66,6 +66,7 @@ papers:
     venue: "ICLR, 2025 (Spotlight)"
     links: 
       - "[Paper](https://openreview.net/pdf?id=U3PBITXNG6){: .btn .btn--orange}" 
+      - "[Project Website](https://devzhk.github.io/InverseBench/){: .btn .btn--inverse}"
   - title: "Neural Approximate Mirror Maps for Constrained Diffusion Models"
     authors: "B.T. Feng, R. Baptista, K.L. Bouman"
     venue: "ICLR, 2025"
