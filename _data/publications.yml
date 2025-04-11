@@ -9,6 +9,9 @@ highlight:  # publications to be shown on home page
   - title: "Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors"
     link: "http://imaging.cms.caltech.edu/pnpdm/"
     teaser: "publications/pnpdm_teaser.png"
+  - title: "STeP: A General and Scalable Framework for Solving Video Inverse Problems with Spatiotemporal Diffusion Priors"
+    link: "https://zhangbingliang2019.github.io/STeP/"
+    teaser: "publications/step_teaser.gif"
   - title: "First 3D Recovery of the Gas Around a Black Hole"
     link: "http://imaging.cms.caltech.edu/orbital_tomography/"
     teaser: "publications/orbital_tomography_teaser.gif"
@@ -56,6 +59,13 @@ highlight:  # publications to be shown on home page
     teaser: publications/polish.png
   
 papers:
+  - title: "STeP: A General and Scalable Framework for Solving Video Inverse Problems with Spatiotemporal Diffusion Priors"
+    authors: "B. Zhang, Z. Wu, B.Y. Feng, Y. Song, Y. Yue, K.L. Bouman"
+    venue: "In submission, 2025"
+    links: 
+      - "[Paper](https://arxiv.org/abs/2504.07549){: .btn .btn--orange}"
+      - "[Code](https://github.com/zhangbingliang2019/STeP){: .btn .btn--inverse}"
+      - "[Project Website](https://zhangbingliang2019.github.io/STeP/){: .btn .btn--inverse}"
   - title: "Exoplanet Imaging via Differentiable Rendering"
     authors: "B.Y. Feng, R. Ferrer-Chavez, A. Levis, J.J. Wang, K.L. Bouman"
     venue: "IEEE Transactions on Computational Imaging, 2025"
