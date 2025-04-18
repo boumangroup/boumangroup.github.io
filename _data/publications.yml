@@ -1,5 +1,8 @@
 # Publications
 highlight:  # publications to be shown on home page
+  - title: Revealing the 3D Cosmic Web through Gravitationally Constrained Neural Fields
+    link: "http://imaging.cms.caltech.edu/cwnf"
+    teaser: "publications/dm_iclr_teaser.gif"
   - title: "Neural Approximate Mirror Maps (NAMMs)"
     link: "http://imaging.cms.caltech.edu/namm/"
     teaser: "publications/namm_teaser.png"
