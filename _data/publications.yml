@@ -1,6 +1,6 @@
 # Publications
 highlight:  # publications to be shown on home page
-  - title: Visual Surface Wave Elastography: Revealing Subsurface Physical Properties via Visible Surface Waves
+  - title: Visual Surface Wave Elastography
     link: "https://www.arxiv.org/abs/2507.09207"
     teaser: "publications/teaser_4.pdf"
   - title: Teaching Humans Subtle Differences with DIFFusion
@@ -80,6 +80,7 @@ papers:
     venue: "IEEE Transactions on Computational Imaging, 2025"
     links: 
       - "[Paper](https://arxiv.org/abs/2501.01912){: .btn .btn--orange}" 
+      - "[Project Website](https://brandonyfeng.github.io/EDDO/){: .btn .btn--inverse}"
   - title: "InverseBench: Benchmarking Plug-and-Play Diffusion Models for Inverse Problems in Physical Sciences"
     authors: "H. Zheng, W. Chu, B. Zhang, Z. Wu, A. Wang, B.T. Feng, C. Zou, Y. Sun, N. Kovachki, Z.E. Ross, K.L. Bouman, Y. Yue"
     venue: "ICLR, 2025 (Spotlight)"
