@@ -1,5 +1,11 @@
 # Publications
 highlight:  # publications to be shown on home page
+  - title: Visual Surface Wave Elastography: Revealing Subsurface Physical Properties via Visible Surface Waves
+    link: "https://www.arxiv.org/abs/2507.09207"
+    teaser: "publications/teaser_4.pdf"
+  - title: Teaching Humans Subtle Differences with DIFFusion
+    link: "https://arxiv.org/abs/2504.08046"
+    teaser: "publications/diff.gif"
   - title: Revealing the 3D Cosmic Web through Gravitationally Constrained Neural Fields
     link: "http://imaging.cms.caltech.edu/cwnf"
     teaser: "publications/dm_iclr_teaser.gif"
