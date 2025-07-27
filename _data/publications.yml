@@ -2,7 +2,7 @@
 highlight:  # publications to be shown on home page
   - title: Visual Surface Wave Elastography
     link: "https://www.arxiv.org/abs/2507.09207"
-    teaser: "publications/teaser_vswe.png"
+    teaser: "publications/vswe_teaser.png"
   - title: Teaching Humans Subtle Differences with DIFFusion
     link: "https://arxiv.org/abs/2504.08046"
     teaser: "publications/diff.gif"
