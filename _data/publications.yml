@@ -109,6 +109,8 @@ papers:
     venue: "ICLR, 2025"
     links: 
       - "[Paper](https://openreview.net/pdf?id=Ax0i933gtp){: .btn .btn--orange}" 
+      - "[Code](https://github.com/brandonyzhao/jax-lensing-3d){: .btn .btn--inverse}"
+      - "[Project Website](https://imaging.cms.caltech.edu/cwnf/){: .btn .btn--inverse}"
   - title: "ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning"
     authors: "H. Chung, D. Lee, Z. Wu, B.H. Kim, K.L. Bouman, J.C. Ye"
     venue: "In submission, 2025"
