@@ -4,7 +4,7 @@ highlight:  # publications to be shown on home page
     link: "https://www.arxiv.org/abs/2507.09207"
     teaser: "publications/vswe_teaser.png"
   - title: Teaching Humans Subtle Differences with DIFFusion
-    link: "https://arxiv.org/abs/2504.08046"
+    link: "https://diff-usion.cs.columbia.edu"
     teaser: "publications/diff.gif"
   - title: Revealing the 3D Cosmic Web through Gravitationally Constrained Neural Fields
     link: "http://imaging.cms.caltech.edu/cwnf"
@@ -68,15 +68,19 @@ highlight:  # publications to be shown on home page
     teaser: publications/polish.png
   
 papers:
-  - title: "STeP: A General and Scalable Framework for Solving Video Inverse Problems with Spatiotemporal Diffusion Priors"
-    authors: "B. Zhang, Z. Wu, B.Y. Feng, Y. Song, Y. Yue, K.L. Bouman"
-    venue: "In submission, 2025"
+  - title: "Teaching Humans Subtle Differences with DIFFusion"
+    authors: "M. Chiquier, O. Avrech, Y. Gandelsman, B.T. Feng, K.L. Bouman, C. Vondrick"
+    venue: "In Submission, 2025"
     links: 
-      - "[Paper](https://arxiv.org/abs/2504.07549){: .btn .btn--orange}"
-      - "[Code](https://github.com/zhangbingliang2019/STeP){: .btn .btn--inverse}"
-      - "[Project Website](https://zhangbingliang2019.github.io/STeP/){: .btn .btn--inverse}"
+      - "[Paper](https://arxiv.org/abs/2504.08046){: .btn .btn--orange}"
+      - "[Project Website](https://diff-usion.cs.columbia.edu/){: .btn .btn--inverse}"
+  - title: "Visual Surface Wave Elastography: Revealing Subsurface Physical Properties via Visible Surface Waves"
+    authors: "A.C. Ogren, B.T. Feng, J. Ahn, K.L. Bouman, C. Daraio"
+    venue: "ICCV, 2025"
+    links: 
+      - "[Paper](https://arxiv.org/abs/2507.09207){: .btn .btn--orange}"
   - title: "Exoplanet Imaging via Differentiable Rendering"
-    authors: "B.Y. Feng, R. Ferrer-Chavez, A. Levis, J.J. Wang, K.L. Bouman"
+    authors: "B.T. Feng, R. Ferrer-Chavez, A. Levis, J.J. Wang, K.L. Bouman"
     venue: "IEEE Transactions on Computational Imaging, 2025"
     links: 
       - "[Paper](https://arxiv.org/abs/2501.01912){: .btn .btn--orange}" 
@@ -93,6 +97,13 @@ papers:
     links: 
       - "[Paper](https://arxiv.org/abs/2406.12816){: .btn .btn--orange}"
       - "[Code](https://github.com/berthyf96/namm){: .btn .btn--inverse}"
+  - title: "STeP: A General and Scalable Framework for Solving Video Inverse Problems with Spatiotemporal Diffusion Priors"
+    authors: "B. Zhang, Z. Wu, B.T. Feng, Y. Song, Y. Yue, K.L. Bouman"
+    venue: "In submission, 2025"
+    links: 
+      - "[Paper](https://arxiv.org/abs/2504.07549){: .btn .btn--orange}"
+      - "[Code](https://github.com/zhangbingliang2019/STeP){: .btn .btn--inverse}"
+      - "[Project Website](https://zhangbingliang2019.github.io/STeP/){: .btn .btn--inverse}"
   - title: "Revealing the 3D Cosmic Web through Gravitationally Constrained Neural Fields"
     authors: "B. Zhao, A. Levis, L. Connor, P.P. Srinivasan, K.L. Bouman"
     venue: "ICLR, 2025"

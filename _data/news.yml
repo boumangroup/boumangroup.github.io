@@ -1,5 +1,11 @@
 # News on the home page. Strings will be Markdown-ified.
 main:
+  - date: "07/25"
+    info: "[Albert Peng](https://peng-albert.github.io/) joins the group!"
+  - date: "07/25"
+    info: "Check out our [new paper](https://arxiv.org/abs/2507.09207) in ICCV which infers the thickness and stiffness of structures from just videos of waves on their surface!"
+  - date: "07/25"
+    info: "Congratulations to [Ray Wu](https://zihuiwu.github.io/) for successfully defending his thesis!"
   - date: "01/25"
     info: "Katie wins the PECASE Award! Check out the [Caltech news release](https://www.caltech.edu/about/news/PECASE_Awards_2025)."
   - date: "01/25"
