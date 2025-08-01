@@ -1,5 +1,8 @@
 # Publications
 highlight:  # publications to be shown on home page
+  - title: Recovering a Magma Column Beneath the Kilauea Volcano
+    link: "https://arxiv.org/pdf/2507.23692"
+    teaser: "publications/kiluea.png"
   - title: Visual Surface Wave Elastography
     link: "https://www.arxiv.org/abs/2507.09207"
     teaser: "publications/vswe_teaser.png"
@@ -9,18 +12,18 @@ highlight:  # publications to be shown on home page
   - title: Revealing the 3D Cosmic Web through Gravitationally Constrained Neural Fields
     link: "http://imaging.cms.caltech.edu/cwnf"
     teaser: "publications/dm_iclr_teaser.gif"
-  - title: "Neural Approximate Mirror Maps (NAMMs)"
-    link: "http://imaging.cms.caltech.edu/namm/"
-    teaser: "publications/namm_teaser.png"
-  - title: "Plug-and-Play Monte Carlo"
-    link: "http://imaging.cms.caltech.edu/pmc/"
-    teaser: "publications/pnpmc_teaser.gif"
-  - title: "Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors"
-    link: "http://imaging.cms.caltech.edu/pnpdm/"
-    teaser: "publications/pnpdm_teaser.png"
   - title: "STeP: A General and Scalable Framework for Solving Video Inverse Problems with Spatiotemporal Diffusion Priors"
     link: "https://zhangbingliang2019.github.io/STeP/"
     teaser: "publications/step_teaser.gif"
+  - title: "Neural Approximate Mirror Maps (NAMMs)"
+    link: "http://imaging.cms.caltech.edu/namm/"
+    teaser: "publications/namm_teaser.png"
+  - title: "Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors"
+    link: "http://imaging.cms.caltech.edu/pnpdm/"
+    teaser: "publications/pnpdm_teaser.png"
+  - title: "Plug-and-Play Monte Carlo"
+    link: "http://imaging.cms.caltech.edu/pmc/"
+    teaser: "publications/pnpmc_teaser.gif"
   - title: "First 3D Recovery of the Gas Around a Black Hole"
     link: "http://imaging.cms.caltech.edu/orbital_tomography/"
     teaser: "publications/orbital_tomography_teaser.gif"
@@ -68,19 +71,19 @@ highlight:  # publications to be shown on home page
     teaser: publications/polish.png
   
 papers:
-  - title: "Teaching Humans Subtle Differences with DIFFusion"
-    authors: "M. Chiquier, O. Avrech, Y. Gandelsman, B.T. Feng, K.L. Bouman, C. Vondrick"
-    venue: "In Submission, 2025"
-    links: 
-      - "[Paper](https://arxiv.org/abs/2504.08046){: .btn .btn--orange}"
-      - "[Project Website](https://diff-usion.cs.columbia.edu/){: .btn .btn--inverse}"
+  # - title: "Teaching Humans Subtle Differences with DIFFusion"
+  #   authors: "M. Chiquier, O. Avrech, Y. Gandelsman, B.T. Feng, K.L. Bouman, C. Vondrick"
+  #   venue: "In Submission, 2025"
+  #   links: 
+  #     - "[Paper](https://arxiv.org/abs/2504.08046){: .btn .btn--orange}"
+  #     - "[Project Website](https://diff-usion.cs.columbia.edu/){: .btn .btn--inverse}"
   - title: "Visual Surface Wave Elastography: Revealing Subsurface Physical Properties via Visible Surface Waves"
     authors: "A.C. Ogren, B.T. Feng, J. Ahn, K.L. Bouman, C. Daraio"
     venue: "ICCV, 2025"
     links: 
       - "[Paper](https://arxiv.org/abs/2507.09207){: .btn .btn--orange}"
   - title: "Exoplanet Imaging via Differentiable Rendering"
-    authors: "B.T. Feng, R. Ferrer-Chavez, A. Levis, J.J. Wang, K.L. Bouman"
+    authors: "B.Y. Feng, R. Ferrer-Chavez, A. Levis, J.J. Wang, K.L. Bouman"
     venue: "IEEE Transactions on Computational Imaging, 2025"
     links: 
       - "[Paper](https://arxiv.org/abs/2501.01912){: .btn .btn--orange}" 
@@ -97,13 +100,13 @@ papers:
     links: 
       - "[Paper](https://arxiv.org/abs/2406.12816){: .btn .btn--orange}"
       - "[Code](https://github.com/berthyf96/namm){: .btn .btn--inverse}"
-  - title: "STeP: A General and Scalable Framework for Solving Video Inverse Problems with Spatiotemporal Diffusion Priors"
-    authors: "B. Zhang, Z. Wu, B.T. Feng, Y. Song, Y. Yue, K.L. Bouman"
-    venue: "In submission, 2025"
-    links: 
-      - "[Paper](https://arxiv.org/abs/2504.07549){: .btn .btn--orange}"
-      - "[Code](https://github.com/zhangbingliang2019/STeP){: .btn .btn--inverse}"
-      - "[Project Website](https://zhangbingliang2019.github.io/STeP/){: .btn .btn--inverse}"
+  # - title: "STeP: A General and Scalable Framework for Solving Video Inverse Problems with Spatiotemporal Diffusion Priors"
+  #   authors: "B. Zhang, Z. Wu, B.T. Feng, Y. Song, Y. Yue, K.L. Bouman"
+  #   venue: "In submission, 2025"
+  #   links: 
+  #     - "[Paper](https://arxiv.org/abs/2504.07549){: .btn .btn--orange}"
+  #     - "[Code](https://github.com/zhangbingliang2019/STeP){: .btn .btn--inverse}"
+  #     - "[Project Website](https://zhangbingliang2019.github.io/STeP/){: .btn .btn--inverse}"
   - title: "Revealing the 3D Cosmic Web through Gravitationally Constrained Neural Fields"
     authors: "B. Zhao, A. Levis, L. Connor, P.P. Srinivasan, K.L. Bouman"
     venue: "ICLR, 2025"
@@ -111,11 +114,11 @@ papers:
       - "[Paper](https://openreview.net/pdf?id=Ax0i933gtp){: .btn .btn--orange}" 
       - "[Code](https://github.com/brandonyzhao/jax-lensing-3d){: .btn .btn--inverse}"
       - "[Project Website](https://imaging.cms.caltech.edu/cwnf/){: .btn .btn--inverse}"
-  - title: "ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning"
-    authors: "H. Chung, D. Lee, Z. Wu, B.H. Kim, K.L. Bouman, J.C. Ye"
-    venue: "In submission, 2025"
-    links: 
-      - "[Paper](https://arxiv.org/abs/2501.04284){: .btn .btn--orange}"
+  # - title: "ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning"
+  #   authors: "H. Chung, D. Lee, Z. Wu, B.H. Kim, K.L. Bouman, J.C. Ye"
+  #   venue: "In submission, 2025"
+  #   links: 
+  #     - "[Paper](https://arxiv.org/abs/2501.04284){: .btn .btn--orange}"
   - title: "Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors"
     authors: "Z. Wu, Y. Sun, Y. Chen, B. Zhang, Y. Yue, K.L. Bouman"
     venue: "38th Conference on Neural Information Processing Systems (NeurIPS), 2024"

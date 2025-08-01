@@ -4,25 +4,27 @@ pi:
   link: "http://users.cms.caltech.edu/~klbouman/index.html"
   title: "Assistant Professor"
   photo: people/klbouman.jpg
-# postdoc:
-
-
+postdoc:
+- name: "Marianna Foschi"
+  link: "https://foschimarianna.wixsite.com/mariannafoschi/"
+  title: "Postdoc"
+  photo: people/marianna.png
 phd:
 - name: "Berthy Feng"
   link: "https://berthyfeng.com"
-  title: "PhD Student"
+  title: "PhD Candidate"
   photo: people/bfeng.jpg
 - name: "Angela Gao"
   link: "https://angelafgao.github.io/"
-  title: "PhD Student"
+  title: "PhD Candidate"
   photo: people/agao.jpg
 - name: "Zihui (Ray) Wu"
   link: "https://zihuiwu.github.io/"
-  title: "PhD Student"
+  title: "PhD Candidate"
   photo: people/zwu.jpg
 - name: "Brandon Zhao"
   link: "https://brandonyzhao.github.io/"
-  title: "PhD Student"
+  title: "PhD Candidate"
   photo: people/bzhao.jpg
 - name: "Bingliang Zhang"
   link: "https://zhangbingliang2019.github.io/"
@@ -32,7 +34,14 @@ phd:
   link: "https://www.cms.caltech.edu/people/frederic-wang"
   title: "PhD Student"
   photo: people/fred3.png
-
+- name: "Albert Peng"
+  link: "https://peng-albert.github.io/"
+  title: "PhD Student"
+  photo: people/albert.png
+- name: "Elena Williams"
+  link: ""
+  title: "Schmidt Scholar"
+  photo: people/elena.png
 alumni:
 - name: "Aviad Levis"
   link: "https://www.aviadlevis.info/"
