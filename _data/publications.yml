@@ -2,7 +2,7 @@
 highlight:  # publications to be shown on home page
   - title: Recovering a Magma Column Beneath the Kilauea Volcano
     link: "https://arxiv.org/pdf/2507.23692"
-    teaser: "publications/kiluea.png"
+    teaser: "publications/kilauea.png"
   - title: Visual Surface Wave Elastography
     link: "https://www.arxiv.org/abs/2507.09207"
     teaser: "publications/vswe_teaser.png"
