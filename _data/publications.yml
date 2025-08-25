@@ -1,5 +1,8 @@
 # Publications
 highlight:  # publications to be shown on home page
+  - title: "EHT Black-Hole Imaging Tutorial"
+    link: "https://github.com/berthyf96/eht_imaging_tutorial"
+    teaser: "publications/eht_tutorial_teaser.png"
   - title: Recovering a Magma Column Beneath the Kilauea Volcano
     link: "https://arxiv.org/pdf/2507.23692"
     teaser: "publications/kilauea.png"
