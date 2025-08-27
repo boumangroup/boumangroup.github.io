@@ -10,18 +10,6 @@ postdoc:
   title: "Postdoc"
   photo: people/marianna.png
 phd:
-- name: "Berthy Feng"
-  link: "https://berthyfeng.com"
-  title: "PhD Candidate"
-  photo: people/bfeng.jpg
-- name: "Angela Gao"
-  link: "https://angelafgao.github.io/"
-  title: "PhD Candidate"
-  photo: people/agao.jpg
-- name: "Zihui (Ray) Wu"
-  link: "https://zihuiwu.github.io/"
-  title: "PhD Candidate"
-  photo: people/zwu.jpg
 - name: "Brandon Zhao"
   link: "https://brandonyzhao.github.io/"
   title: "PhD Candidate"
@@ -43,6 +31,18 @@ phd:
   title: "Schmidt Scholar"
   photo: people/elena.png
 alumni:
+- name: "Berthy Feng"
+  link: "https://berthyfeng.com"
+  title: "Postdoc, MIT"
+  photo: people/bfeng.jpg
+- name: "Angela Gao"
+  link: "https://angelafgao.github.io/"
+  title: "PhD Alum"
+  photo: people/agao.jpg
+- name: "Zihui (Ray) Wu"
+  link: "https://zihuiwu.github.io/"
+  title: "PhD Alum"
+  photo: people/zwu.jpg
 - name: "Aviad Levis"
   link: "https://www.aviadlevis.info/"
   title: "Assistant Professor, University of Toronto"
