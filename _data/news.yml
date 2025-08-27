@@ -1,6 +1,10 @@
 # News on the home page. Strings will be Markdown-ified.
 main:
   - date: "08/25"
+    info: "Congratulations to [Angela Gao](https://angelafgao.github.io/) for successfully defending her thesis!"
+  - date: "08/25"
+    info: "Congratulations to [Berthy Feng](https://www.berthyfeng.com/) for successfully defending her thesis!"
+  - date: "08/25"
     info: "Elena Williams is joining our group as a Schmidt Scholar to work on making diffusion based based inverse solvers more accessible to scientists!"
   - date: "07/25"
     info: "[Albert Peng](https://peng-albert.github.io/) joins the group!"
