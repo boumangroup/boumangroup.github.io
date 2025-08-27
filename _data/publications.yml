@@ -7,7 +7,7 @@ highlight:  # publications to be shown on home page
     link: "https://arxiv.org/pdf/2507.23692"
     teaser: "publications/kilauea.png"
   - title: Visual Surface Wave Elastography
-    link: "https://www.arxiv.org/abs/2507.09207"
+    link: "https://imaging.cms.caltech.edu/vswe"
     teaser: "publications/vswe_teaser.png"
   - title: Teaching Humans Subtle Differences with DIFFusion
     link: "https://diff-usion.cs.columbia.edu"
