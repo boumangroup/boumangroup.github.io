@@ -1,5 +1,8 @@
 # Publications
 highlight:  # publications to be shown on home page
+  - title: "Revealing Fine Structure in Protoplanetary Disks with Physics Constrained Neural Fields"
+    link: "https://arxiv.org/pdf/2509.03623"
+    teaser: "publications/ppdisk_teaser.gif"
   - title: "EHT Black-Hole Imaging Tutorial"
     link: "https://github.com/berthyf96/eht_imaging_tutorial"
     teaser: "publications/eht_tutorial_teaser.png"
