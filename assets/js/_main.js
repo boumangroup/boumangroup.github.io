@@ -104,7 +104,7 @@ $(document).ready(function(){
     controls: false,
     auto: true,
     pauseOnHover: true,
-    pause: 3000
+    pause: 10000
   });
 
 });
