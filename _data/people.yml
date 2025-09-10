@@ -33,15 +33,15 @@ phd:
 alumni:
 - name: "Berthy Feng"
   link: "https://berthyfeng.com"
-  title: "Postdoc, MIT"
+  title: "NSF IAIFI Postdoc Fellowship, MIT"
   photo: people/bfeng.jpg
 - name: "Angela Gao"
   link: "https://angelafgao.github.io/"
-  title: "PhD Alum"
+  title: "Startup Co-Founder"
   photo: people/agao.jpg
 - name: "Zihui (Ray) Wu"
   link: "https://zihuiwu.github.io/"
-  title: "PhD Alum"
+  title: "Quantitative Researcher, Jump Trading"
   photo: people/zwu.jpg
 - name: "Aviad Levis"
   link: "https://www.aviadlevis.info/"
