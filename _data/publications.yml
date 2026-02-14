@@ -80,9 +80,14 @@ papers:
   # - title: "Teaching Humans Subtle Differences with DIFFusion"
   #   authors: "M. Chiquier, O. Avrech, Y. Gandelsman, B.T. Feng, K.L. Bouman, C. Vondrick"
   #   venue: "In Submission, 2025"
-  #   links: 
+  #   links:
   #     - "[Paper](https://arxiv.org/abs/2504.08046){: .btn .btn--orange}"
   #     - "[Project Website](https://diff-usion.cs.columbia.edu/){: .btn .btn--inverse}"
+  - title: "U-DAVI: Uncertainty-Aware Diffusion-Prior-Based Amortized Variational Inference for Image Reconstruction"
+    authors: "A. Varshney, K.L. Bouman, B.T. Feng"
+    venue: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026"
+    links:
+      - "[Paper](http://arxiv.org/abs/2602.11704){: .btn .btn--orange}"
   - title: "Visual Surface Wave Elastography: Revealing Subsurface Physical Properties via Visible Surface Waves"
     authors: "A.C. Ogren, B.T. Feng, J. Ahn, K.L. Bouman, C. Daraio"
     venue: "ICCV, 2025"
