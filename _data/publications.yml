@@ -83,6 +83,11 @@ papers:
   #   links:
   #     - "[Paper](https://arxiv.org/abs/2504.08046){: .btn .btn--orange}"
   #     - "[Project Website](https://diff-usion.cs.columbia.edu/){: .btn .btn--inverse}"
+  - title: "Generative Diffusion Priors for 3D Mapping of the Dark Universe"
+    authors: "B. Zhao, D. Scognamiglio, O. Doré, K.L. Bouman"
+    venue: "CVPR, 2026"
+    links:
+      - "[Paper](https://openreview.net/forum?id=TattNl2pfl&nesting=2&sort=date-desc){: .btn .btn--orange}"
   - title: "U-DAVI: Uncertainty-Aware Diffusion-Prior-Based Amortized Variational Inference for Image Reconstruction"
     authors: "A. Varshney, K.L. Bouman, B.T. Feng"
     venue: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026"
