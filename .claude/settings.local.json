@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:imaging.cms.caltech.edu)",
+      "WebSearch",
+      "WebFetch(domain:www.caltech.edu)",
+      "WebFetch(domain:signalprocessingsociety.org)"
+    ]
+  }
+}

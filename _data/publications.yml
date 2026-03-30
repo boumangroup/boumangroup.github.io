@@ -1,5 +1,8 @@
 # Publications
 highlight:  # publications to be shown on home page
+  - title: "Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields"
+    link: "https://imaging.cms.caltech.edu/pidef/"
+    teaser: "publications/pidef_teaser.gif"
   - title: "Revealing Fine Structure in Protoplanetary Disks with Physics Constrained Neural Fields"
     link: "https://arxiv.org/pdf/2509.03623"
     teaser: "publications/ppdisk_teaser.gif"
@@ -83,6 +86,13 @@ papers:
   #   links:
   #     - "[Paper](https://arxiv.org/abs/2504.08046){: .btn .btn--orange}"
   #     - "[Project Website](https://diff-usion.cs.columbia.edu/){: .btn .btn--inverse}"
+  - title: "Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields"
+    authors: "B.T. Feng, A.A. Chael, D. Bromley, A. Levis, W.T. Freeman, K.L. Bouman"
+    venue: "CVPR, 2026"
+    links: 
+      - "[Paper](https://arxiv.org/abs/2602.08029){: .btn .btn--orange}"
+      - "[Project Website](https://imaging.cms.caltech.edu/pidef/){: .btn .btn--inverse}"
+      - "[Code](https://github.com/berthyf96/pidef){: .btn .btn--inverse}"
   - title: "Generative Diffusion Priors for 3D Mapping of the Dark Universe"
     authors: "B. Zhao, D. Scognamiglio, O. Doré, K.L. Bouman"
     venue: "CVPR, 2026"

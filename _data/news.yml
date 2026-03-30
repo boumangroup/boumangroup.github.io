@@ -1,5 +1,11 @@
 # News on the home page. Strings will be Markdown-ified.
 main:
+  - date: "03/26"
+    info: "Check out the Caltech article on [using tiny ripples at skin level to monitor for possible health problems below](https://www.caltech.edu/about/news/using-tiny-ripples-at-skin-level-to-monitor-for-possible-health-problems-below)!"
+  - date: "02/26"
+    info: "Katie is awarded the Allen and Charlotte Ginsburg Prize!"
+  - date: "01/26"
+    info: "Katie wins the [Pierre-Simon Laplace Early Career Technical Achievement Award](https://signalprocessingsociety.org/community-involvement/award-recipients) for contributions to imaging techniques and analysis for astrophysics!"
   - date: "08/25"
     info: "Congratulations to [Angela Gao](https://angelafgao.github.io/) for successfully defending her thesis!"
   - date: "08/25"
