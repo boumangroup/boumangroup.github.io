@@ -1,5 +1,8 @@
 # Publications
 highlight:  # publications to be shown on home page
+  - title: "Sample-efficient evidence estimation of score based priors for model selection"
+    link: "https://imaging.cms.caltech.edu/dime/"
+    teaser: "publications/dime.png"
   - title: "Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields"
     link: "https://imaging.cms.caltech.edu/pidef/"
     teaser: "publications/pidef_teaser.gif"
@@ -98,6 +101,13 @@ papers:
     venue: "CVPR, 2026"
     links:
       - "[Paper](https://openreview.net/forum?id=TattNl2pfl&nesting=2&sort=date-desc){: .btn .btn--orange}"
+  - title: "Sample-efficient evidence estimation of score based priors for model selection"
+    authors: "F. Wang, K.L. Bouman"
+    venue: "ICLR, 2026"
+    links: 
+      - "[Paper](https://arxiv.org/abs/2602.20549){: .btn .btn--orange}"
+      - "[Project Website](https://imaging.cms.caltech.edu/dime/){: .btn .btn--inverse}"
+      - "[Code](https://github.com/fredwang25/DiME){: .btn .btn--inverse}"
   - title: "U-DAVI: Uncertainty-Aware Diffusion-Prior-Based Amortized Variational Inference for Image Reconstruction"
     authors: "A. Varshney, K.L. Bouman, B.T. Feng"
     venue: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026"
