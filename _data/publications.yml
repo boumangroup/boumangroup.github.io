@@ -1,6 +1,6 @@
 # Publications
 highlight:  # publications to be shown on home page
-  - title: "Sample-efficient evidence estimation of score based priors for model selection"
+  - title: "Selecting a data-driven prior for imaging"
     link: "https://imaging.cms.caltech.edu/dime/"
     teaser: "publications/dime.png"
   - title: "Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields"
