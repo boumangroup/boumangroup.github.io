@@ -1,6 +1,9 @@
 # Publications
 highlight:  # publications to be shown on home page
-  - title: "Selecting a data-driven prior for imaging"
+  - title: "Mapping Dark-Matter Clusters via Physics-Guided Diffusion Models"
+    link: "https://graphics.unizar.es/projects/DarkMatterMapping/"
+    teaser: "publications/darkclusters_teaser.gif"
+  - title: "Selecting a Data-Driven Prior for Imaging"
     link: "https://imaging.cms.caltech.edu/dime/"
     teaser: "publications/dime.png"
   - title: "Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields"
