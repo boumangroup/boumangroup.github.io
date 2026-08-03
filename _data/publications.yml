@@ -103,7 +103,8 @@ papers:
     authors: "B. Zhao, D. Scognamiglio, O. Doré, K.L. Bouman"
     venue: "CVPR, 2026"
     links:
-      - "[Paper](https://openreview.net/forum?id=TattNl2pfl&nesting=2&sort=date-desc){: .btn .btn--orange}"
+      - "[Paper](https://arxiv.org/abs/2606.00803){: .btn .btn--orange}"
+      - "[Project Website](https://imaging.cms.caltech.edu/gdpdm/){: .btn .btn--inverse}"
   - title: "Sample-efficient evidence estimation of score based priors for model selection"
     authors: "F. Wang, K.L. Bouman"
     venue: "ICLR, 2026"
