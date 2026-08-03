@@ -1,5 +1,8 @@
 # Publications
 highlight:  # publications to be shown on home page
+  - title: "Generative Diffusion Priors for 3D Mapping of the Dark Universe"
+    link: "https://imaging.cms.caltech.edu/gdpdm/"
+    teaser: "publications/dm_diff_teaser.gif"
   - title: "Mapping Dark-Matter Clusters via Physics-Guided Diffusion Models"
     link: "https://graphics.unizar.es/projects/DarkMatterMapping/"
     teaser: "publications/darkclusters_teaser.gif"
