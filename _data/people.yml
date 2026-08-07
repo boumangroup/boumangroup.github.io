@@ -14,10 +14,10 @@ phd:
   link: "https://brandonyzhao.github.io/"
   title: "PhD Candidate"
   photo: people/bzhao.jpg
-- name: "Bingliang Zhang"
-  link: "https://zhangbingliang2019.github.io/"
-  title: "PhD Student"
-  photo: people/bingliang.webp
+# - name: "Bingliang Zhang"
+#   link: "https://zhangbingliang2019.github.io/"
+#   title: "PhD Student"
+#   photo: people/bingliang.webp
 - name: "Frederic Wang"
   link: "https://fredwang25.github.io/"
   title: "PhD Student"
