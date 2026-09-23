@@ -1,5 +1,8 @@
 # Publications
 highlight:  # publications to be shown on home page
+  - title: "Video Reconstruction of Variable VLBI Observations with Neural Fields"
+    link: "https://www.nature.com/articles/s41586-026-10988-5"
+    teaser: "publications/kine_teaser.png"
   - title: "Generative Diffusion Priors for 3D Mapping of the Dark Universe"
     link: "https://imaging.cms.caltech.edu/gdpdm/"
     teaser: "publications/dm_diff_teaser.gif"
@@ -95,6 +98,12 @@ papers:
   #   links:
   #     - "[Paper](https://arxiv.org/abs/2504.08046){: .btn .btn--orange}"
   #     - "[Project Website](https://diff-usion.cs.columbia.edu/){: .btn .btn--inverse}"
+  - title: "Video Reconstruction of Variable VLBI Observations with Neural Fields"
+    authors: "M. Foschi\\*, B. Zhao\\*, A. Fuentes\\*, K.L. Bouman, J.L. Gómez, A. Levis (\\* equal contribution)"
+    venue: "Nature, 2026"
+    links:
+      - "[Paper](https://www.nature.com/articles/s41586-026-10988-5){: .btn .btn--orange}"
+      - "[Code](https://github.com/mariannafoschi/kine){: .btn .btn--inverse}"
   - title: "Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields"
     authors: "B.T. Feng, A.A. Chael, D. Bromley, A. Levis, W.T. Freeman, K.L. Bouman"
     venue: "CVPR, 2026"

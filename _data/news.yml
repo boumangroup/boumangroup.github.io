@@ -1,5 +1,7 @@
 # News on the home page. Strings will be Markdown-ified.
 main:
+  - date: "08/26"
+    info: "Check out our [new paper](https://www.nature.com/articles/s41586-026-10988-5) in Nature which reconstructs video of a black hole jet from VLBI observations!"
   - date: "03/26"
     info: "Check out the Caltech article on [using tiny ripples at skin level to monitor for possible health problems below](https://www.caltech.edu/about/news/using-tiny-ripples-at-skin-level-to-monitor-for-possible-health-problems-below)!"
   - date: "02/26"
