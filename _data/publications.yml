@@ -104,6 +104,13 @@ papers:
     links:
       - "[Paper](https://www.nature.com/articles/s41586-026-10988-5){: .btn .btn--orange}"
       - "[Code](https://github.com/mariannafoschi/kine){: .btn .btn--inverse}"
+  - title: "Mapping Dark-Matter Clusters via Physics-Guided Diffusion Models"
+    authors: "D. Royo, B. Zhao, A. Muñoz, D. Gutierrez, K.L. Bouman"
+    venue: "ECCV, 2026"
+    links:
+      - "[Paper](https://arxiv.org/abs/2603.14503){: .btn .btn--orange}"
+      - "[Project Website](https://graphics.unizar.es/projects/DarkMatterMapping/){: .btn .btn--inverse}"
+      - "[Code](https://github.com/diegoroyo/inversebench-gravlensing){: .btn .btn--inverse}"
   - title: "Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields"
     authors: "B.T. Feng, A.A. Chael, D. Bromley, A. Levis, W.T. Freeman, K.L. Bouman"
     venue: "CVPR, 2026"
