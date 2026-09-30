@@ -13,6 +13,10 @@ postdoc:
   link: "https://diego.contact/"
   title: "Postdoc"
   photo: people/diego-royo.png
+- name: "Nicolas Zilberstein"
+  link: "https://nzilberstein.github.io/"
+  title: "Postdoc"
+  photo: people/nicolas.jpg
 phd:
 - name: "Brandon Zhao"
   link: "https://brandonyzhao.github.io/"
