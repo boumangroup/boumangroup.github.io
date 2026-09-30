@@ -26,10 +26,14 @@ phd:
   link: "https://peng-albert.github.io/"
   title: "PhD Student"
   photo: people/albert.png
+- name: "Andrew Chiang"
+  link: ""
+  title: "Schmidt Scholar"
+  photo: people/andrew.jpg
 alumni:
 - name: "Elena Williams"
   link: ""
-  title: "Schmidt Scholar"
+  title: "Schmidt Scholar Alum"
   photo: people/elena.png
 - name: "Berthy Feng"
   link: "https://berthyfeng.com"
