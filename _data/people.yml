@@ -9,6 +9,10 @@ postdoc:
   link: "https://foschimarianna.wixsite.com/mariannafoschi/"
   title: "Postdoc"
   photo: people/marianna.png
+- name: "Diego Royo"
+  link: "https://diego.contact/"
+  title: "Postdoc"
+  photo: people/diego-royo.png
 phd:
 - name: "Brandon Zhao"
   link: "https://brandonyzhao.github.io/"
