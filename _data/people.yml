@@ -26,11 +26,11 @@ phd:
   link: "https://peng-albert.github.io/"
   title: "PhD Student"
   photo: people/albert.png
+alumni:
 - name: "Elena Williams"
   link: ""
   title: "Schmidt Scholar"
   photo: people/elena.png
-alumni:
 - name: "Berthy Feng"
   link: "https://berthyfeng.com"
   title: "NSF IAIFI Postdoc Fellowship, MIT"
