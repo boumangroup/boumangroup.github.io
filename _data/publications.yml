@@ -98,6 +98,11 @@ papers:
   #   links:
   #     - "[Paper](https://arxiv.org/abs/2504.08046){: .btn .btn--orange}"
   #     - "[Project Website](https://diff-usion.cs.columbia.edu/){: .btn .btn--inverse}"
+  - title: "ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning"
+    authors: "H. Chung\\*, D. Lee\\*, Z. Wu, B. Kim, K.L. Bouman, J.C. Ye (\\* equal contribution)"
+    venue: "Medical Image Analysis, 2026"
+    links:
+      - "[Paper](https://arxiv.org/abs/2501.04284){: .btn .btn--orange}"
   - title: "Video Reconstruction of Variable VLBI Observations with Neural Fields"
     authors: "M. Foschi\\*, B. Zhao\\*, A. Fuentes\\*, K.L. Bouman, J.L. Gómez, A. Levis (\\* equal contribution)"
     venue: "Nature, 2026"
