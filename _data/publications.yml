@@ -98,6 +98,11 @@ papers:
   #   links:
   #     - "[Paper](https://arxiv.org/abs/2504.08046){: .btn .btn--orange}"
   #     - "[Project Website](https://diff-usion.cs.columbia.edu/){: .btn .btn--inverse}"
+  - title: "Revealing Fine Structure in Protoplanetary Disks with Physics Constrained Neural Fields"
+    authors: "A. Levis\\*, N.H.T. Luong\\*, R. Teague, K.L. Bouman, M. Barraza-Alfaro, K. Flaherty (\\* equal contribution)"
+    venue: "Nature Communications Engineering, 2026"
+    links:
+      - "[Paper](https://arxiv.org/abs/2509.03623){: .btn .btn--orange}"
   - title: "ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning"
     authors: "H. Chung\\*, D. Lee\\*, Z. Wu, B. Kim, K.L. Bouman, J.C. Ye (\\* equal contribution)"
     venue: "Medical Image Analysis, 2026"

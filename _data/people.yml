@@ -39,6 +39,10 @@ phd:
   title: "Schmidt Scholar"
   photo: people/andrew.jpg
 alumni:
+- name: "Yang Liu"
+  link: "https://liuyang12.github.io/"
+  title: "Assistant Professor, Hong Kong University"
+  photo: people/yangliu.jpeg
 - name: "Elena Williams"
   link: ""
   title: "Schmidt Scholar Alum"
@@ -72,7 +76,7 @@ alumni:
   title: "MS Alum"
   photo: people/hrajaobe.jpg
 - name: "Nitika Yadlapalli Yurk"
-  title: "NASA Postdoctoral Program Fellow at JPL"
+  title: "Zoox"
   photo: people/nyadlapa.jpeg
 - name: "He Sun"
   link: "https://ai4scientificimaging.org/"
