@@ -1,7 +1,7 @@
 images: 
-  - image: /images/group/watson_normal.jpg
-  - image: /images/group/watson_jumping.jpg
-  - image: /images/group/iccp_2026.PNG
+  - image: /images/group/watson_normal_cropped.jpg
+  - image: /images/group/watson_jumping_cropped.jpg
+  - image: /images/group/iccp_2026_cropped.PNG
   - image: /images/group/powell_cropped.jpg
   - image: /images/group/after_defense.jpg
   - image: /images/group/group_2.jpg
